@@ -4,6 +4,8 @@
   <!-- [START head_html] -->
   <head>
     <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/MediawikiJS.js"></script>
   </head>
   <!-- [END head_html] -->
   <body>
@@ -12,7 +14,7 @@
     <td>{{ city[2].decode('utf-8') }}</td>
     <td>{{ city[3].decode('utf-8') }}</td>
     <td>{{ city[4].decode('utf-8') }}</td>
-    <td><a href="http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&list=geosearch&gsprimary=all&gsnamespace=6&gsradius=500&gscoord={{coord}}  ">Wiki Media</a></td>
+    <td><a href="http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&list=geosearch&gsprimary=all&gsnamespace=6&gsradius=10000&gscoord={{coord}}  ">Wiki Media</a></td>
     <td><a href="photos?id={{city[0]}}">Photos</a></td>
     <td><div id="imageContainer"></div></td> 
 	</tr>
@@ -20,19 +22,30 @@
 
 
   </body>
-<script>
-    var img = document.createElement("img");
-    img.onload = function(e) {
+<script type="text/javascript">
+
+/*
+http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&generator=geosearch&
+ggsprimary=all&ggsnamespace=6&ggsradius=10000&ggslimit=25&prop=imageinfo&iilimit=1&iiprop=url
+&iiurlwidth=200&iiurlheight=200&ggscoord=51.48|0.0
+*/
+    var image_loader = function(e) {
         var container = document.getElementById("imageContainer");
         container.appendChild(e.target);
     }
+    var img = document.createElement("img");
+    img.onload = image_loader
     img.setAttribute("src","https://www.google.com/images/srpr/logo11w.png");
-    var img = document.createElement("img");
-    img.onload = function(e) {
-        var container = document.getElementById("imageContainer");
-        container.appendChild(e.target);
-    }
+    img = document.createElement("img");
+    img.onload = image_loader
     img.setAttribute("src","http://www.microsoft.com/about/corporatecitizenship/en-us/images/MSFT_logo_rgb_C-Gray_D102x23.png");
+
+var params = {action: 'query', prop: 'revisions', titles: 'Main Page'}
+var mwjs = new MediaWikiJS('https://en.wikipedia.org', params, function (data) {
+    'use strict';
+    var pages = data.query.pages;
+    alert('Main page of Wikipedia last edited by: ' + pages[Object.keys(pages)[0]].revisions[0].user);
+});
 </script>
 </html>
 {% endautoescape %}

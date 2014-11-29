@@ -105,7 +105,7 @@ class Photos(webapp2.RequestHandler):
         pass
 
 application = webapp2.WSGIApplication([
-    ('/', MainPage),
+    ('/', Browse),
     ('/sign', Guestbook),
     ('/browse', Browse),
     ('/photos', Photos),
