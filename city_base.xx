@@ -1,0 +1,938 @@
+|16°30′S|180°00′W|[[Rabi Island]]|{{n/a}}|{{FIJ}}
+|51°53′N|176°39′W|[[Adak, Alaska|Adak]]|{{flag|Alaska}}|{{USA}}
+|13°17′S|176°11′W|[[Mata-Utu]]|[[Wallis and Futuna]]|{{FRA}}
+|21°08′S|175°12′W|[[Nukuʻalofa]]|{{n/a}}|{{TON}}
+|13°50′S|171°45′W|[[Apia]]|{{n/a}}|{{SAM}}
+|14°17′S|170°42′W|[[Pago Pago]]|{{flag|American Samoa}}|{{USA}}
+|19°03′S|169°55′W|[[Alofi]]|{{NIU}}|{{NZL}}
+|21°12′S|159°46′W|[[Avarua]]|{{flag|Cook Islands}}|{{NZL}}
+|21°19′N|157°50′W|[[Honolulu]]|{{flag|Hawaii}}|{{USA}}
+|71°18′N|156°46′W|[[Barrow, Alaska|Barrow]]|{{flag|Alaska}}|{{USA}}
+|19°42′N|155°05′W|[[Hilo, Hawaii|Hilo]]|{{flag|Hawaii}}|{{USA}}
+|61°13′N|149°54′W|[[Anchorage, Alaska|Anchorage]]|{{flag|Alaska}}|{{USA}}
+|17°32′S|149°34′W|[[Papeete]]|{{flag|French Polynesia}}|{{FRA}}
+|70°12′N|148°31′W|[[Deadhorse, Alaska|Deadhorse]]|{{flag|Alaska}}|{{USA}}
+|64°51′N|147°43′W|[[Fairbanks, Alaska|Fairbanks]]|{{flag|Alaska}}|{{USA}}
+|57°03′N|135°20′W|[[Sitka, Alaska|Sitka]]|{{flag|Alaska}}|{{USA}}
+|60°43′N|135°03′W|[[Whitehorse, Yukon|Whitehorse]]|{{flag|Yukon}}|{{CAN}}
+|58°18′N|134°25′W|[[Juneau]]|{{flag|Alaska}}|{{USA}}
+|69°27′N|133°02′W|[[Tuktoyaktuk]]|{{flag|Northwest Territories}}|{{CAN}}
+|25°04′S|130°06′W|[[Adamstown, Pitcairn Islands|Adamstown]]|{{flag|Pitcairn Islands}}|{{UK}}
+|48°26′N|123°22′W|[[Victoria, British Columbia|Victoria]]|{{flag|British Columbia}}|{{CAN}}
+|49°15′N|123°06′W|[[Vancouver]]|{{flag|British Columbia}}|{{CAN}}
+|45°31′N|122°41′W|[[Portland, Oregon|Portland]]|{{flag|Oregon}}|{{USA}}
+|37°47′N|122°25′W|[[San Francisco]]|{{flag|California}}|{{USA}}
+|47°37′N|122°20′W|[[Seattle]]|{{flag|Washington}}|{{USA}}
+|38°33′N|121°28′W|[[Sacramento, California|Sacramento]]|{{flag|California}}|{{USA}}
+|50°41′N|120°20′W|[[Kamloops]]|{{flag|British Columbia}}|{{CAN}}
+|39°32′N|119°49′W|[[Reno, Nevada|Reno]]|{{flag|Nevada}}|{{USA}}
+|34°26′N|119°43′W|[[Santa Barbara, California|Santa Barbara]]|{{flag|California}}|{{USA}}
+|49°53′N|119°30′W|[[Kelowna]]|{{flag|British Columbia}}|{{CAN}}
+|55°10′N|118°48′W|[[Grande Prairie]]|{{flag|Alberta}}|{{CAN}}
+|34°03′N|118°15′W|[[Los Angeles]]|{{flag|California}}|{{USA}}
+|33°57′N|117°24′W|[[Riverside, California|Riverside]]|{{flag|California}}|{{USA}}
+|32°43′N|117°10′W|[[San Diego]]|{{flag|California}}|{{USA}}
+|32°32′N|117°02′W|[[Tijuana]]|{{flag|Baja California}}|{{MEX}}
+|31°51′N|116°36′W|[[Ensenada, Baja California|Ensenada]]|{{flag|Baja California}}|{{MEX}} 
+|43°37′N|116°12′W|[[Boise, Idaho|Boise]]|{{flag|Idaho}}|{{USA}}
+|32°40′N|115°28′W|[[Mexicali]]|{{flag|Baja California}}|{{MEX}}
+|36°11′N|115°08′W|[[Las Vegas, Nevada|Las Vegas]]|{{flag|Nevada}}|{{USA}}
+|62°27′N|114°24′W|[[Yellowknife]]|{{flag|Northwest Territories}}|{{CAN}}
+|51°03′N|114°04′W|[[Calgary]]|{{flag|Alberta}}|{{CAN}}
+|53°32′N|113°30′W|[[Edmonton]]|{{flag|Alberta}}|{{CAN}}
+|33°27′N|112°04′W|[[Phoenix, Arizona|Phoenix]]|{{flag|Arizona}}|{{USA}}
+|46°36′N|112°02′W|[[Helena, Montana|Helena]]|{{flag|Montana}}|{{USA}}
+|40°45′N|111°53′W|[[Salt Lake City]]|{{flag|Utah}}|{{USA}}
+|56°44′N|111°23′W|[[Fort McMurray]]|{{flag|Alberta}}|{{CAN}}
+|29°06′N|110°57′W|[[Hermosillo, Sonora|Hermosillo]]|{{flag|Sonora}}|{{MEX}} 
+|32°13′N|110°56′W|[[Tucson, Arizona|Tucson]]|{{flag|Arizona}}|{{USA}}
+|22°53′N|109°55′W|[[Cabo San Lucas]]|{{flag|Baja California Sur}}|{{MEX}}
+|27°09′S|109°26′W|[[Hanga Roa]]|[[Easter Island]]|{{CHI}}
+|24°48′N|107°23′W|[[Culiacán]]|{{flag|Sinaloa}}|{{MEX}}
+|52°08′N|106°41′W|[[Saskatoon]]|{{flag|Saskatchewan}}|{{CAN}}
+|35°07′N|106°37′W|[[Albuquerque, New Mexico|Albuquerque]]|{{flag|New Mexico}}|{{USA}}
+|31°44′N|106°29′W|[[Ciudad Juárez]]|{{flag|Chihuahua}}|{{MEX}}
+|31°47′N|106°25′W|[[El Paso, Texas|El Paso]]|{{flag|Texas}}|{{USA}}
+|28°38′N|106°05′W|[[Chihuahua, Chihuahua|Chihuahua]]|{{flag|Chihuahua}}|{{MEX}}
+|35°40′N|105°58′W|[[Santa Fe, New Mexico|Santa Fe]]|{{flag|New Mexico}}|{{USA}}
+|40°01′N|105°17′W|[[Boulder, Colorado|Boulder]]|{{flag|Colorado}}|{{USA}}
+|20°40′N|105°16′W|[[Puerto Vallarta]]|{{flag|Jalisco}}|{{MEX}}
+|39°44′N|104°59′W|[[Denver]]|{{flag|Colorado}}|{{USA}}
+|41°09′N|104°48′W|[[Cheyenne, Wyoming|Cheyenne]]|{{flag|Wyoming}}|{{USA}}
+|24°01′N|104°40′W|[[Durango, Durango|Durango]]|{{flag|Durango}}|{{MEX}}
+|50°27′N|104°36′W|[[Regina, Saskatchewan|Regina]]|{{flag|Saskatchewan}}|{{CAN}}
+|25°32′N|103°27′W|[[Torreón]]|{{flag|Coahuila}}|{{MEX}}
+|20°43′N|103°24′W|[[Zapopan, Jalisco|Zapopan]]|{{flag|Jalisco}}|{{MEX}}
+|20°40′N|103°21′W|[[Guadalajara, Jalisco|Guadalajara]]|{{flag|Jalisco}}|{{MEX}}
+|21°53′N|102°18′W|[[Aguascalientes, Aguascalientes|Aguascalientes]]|{{flag|Aguascalientes}}|{{MEX}}
+|21°07′N|101°41′W|[[León, Guanajuato|León]]|{{flag|Guanajuato}}|{{MEX}}
+|22°09′N|100°51′W|[[San Luis Potosí, San Luis Potosí|San Luis Potosí]]|{{flag|San Luis Potosí}}|{{MEX}}
+|46°49′N|100°47′W|[[Bismarck, North Dakota|Bismarck]]|{{flag|North Dakota}}|{{USA}}
+|20°35′N|100°24′W|[[Santiago de Querétaro|Querétaro]]|{{flag|Querétaro}}|{{MEX}}
+|44°22′N|100°20′W|[[Pierre, South Dakota|Pierre]]|{{flag|South Dakota}}|{{USA}}
+|25°40′N|100°18′W|[[Monterrey]]|{{flag|Nuevo León}}|{{MEX}}
+|16°52′N|99°53′W|[[Acapulco]]|{{flag|Guerrero}}|{{MEX}}
+|19°26′N|99°08′W|{{flagicon|Mexican Federal District}} [[Mexico City]]|{{n/a}}|{{MEX}}
+|29°25′N|98°30′W|[[San Antonio]]|{{flag|Texas}}|{{USA}}
+|19°03′N|98°13′W|[[Puebla, Puebla|Puebla]]|{{flag|Puebla}}|{{MEX}}
+|22°15′N|97°52′W|[[Tampico]]|{{flag|Tamaulipas}}|{{MEX}}
+|30°15′N|97°45′W|[[Austin, Texas|Austin]]|{{flag|Texas}}|{{USA}}
+|35°29′N|97°32′W|[[Oklahoma City]]|{{flag|Oklahoma}}|{{USA}}
+|37°41′N|97°20′W|[[Wichita, Kansas|Wichita]]|{{flag|Kansas}}|{{USA}}
+|49°54′N|97°08′W|[[Winnipeg]]|{{flag|Manitoba}}|{{CAN}}
+|32°47′N|96°48′W|[[Dallas]]|{{flag|Texas}}|{{USA}}
+|40°49′N|96°41′W|[[Lincoln, Nebraska|Lincoln]]|{{flag|Nebraska}}|{{USA}}
+|19°11′N |96°09′W|[[Veracruz, Veracruz|Veracruz]]|{{flag|Veracruz}}|{{MEX}}
+|36°08′N|95°56′W|[[Tulsa, Oklahoma|Tulsa]]|{{flag|Oklahoma}}|{{USA}}
+|29°46′N|95°23′W|[[Houston]]|{{flag|Texas}}|{{USA}}
+|39°06′N|94°35′W|[[Kansas City, Missouri|Kansas City]]|{{flag|Missouri}}|{{USA}}
+|41°35′N|93°37′W|[[Des Moines, Iowa|Des Moines]]|{{flag|Iowa}}|{{USA}}
+|37°12′N|93°17′W|[[Springfield, Missouri|Springfield]]|{{flag|Missouri}}|{{USA}}
+|44°59′N|93°16′W|[[Minneapolis]]|{{flag|Minnesota}}|{{USA}}
+|34°44′N|92°20′W|[[Little Rock, Arkansas|Little Rock]]|{{flag|Arkansas}}|{{USA}}
+|14°54′N|92°16′W|[[Tapachula]]|{{flag|Chiapas}}|{{MEX}}
+|14°50′N|91°31′W|[[Quetzaltenango]]|{{n/a}}|{{GUA}}
+|14°37′N|90°32′W|[[Guatemala City]]|{{n/a}}|{{GUA}}
+|38°38′N|90°12′W|[[St. Louis, Missouri|St. Louis]]|{{flag|Missouri}}|{{USA}}
+|32°18′N|90°11′W|[[Jackson, Mississippi|Jackson]]|{{flag|Mississippi}}|{{USA}}
+|29°58′N|90°03′W|[[New Orleans]]|{{flag|Louisiana}}|{{USA}}
+|35°07′N|89°58′W|[[Memphis, Tennessee|Memphis]]|{{flag|Tennessee}}|{{USA}}
+|20°58′N|89°37′W|[[Mérida, Yucatán|Mérida]]|{{flag|Yucatán}}|{{MEX}}
+|48°23′N|89°15′W|[[Thunder Bay]]|{{flag|Ontario}}|{{CAN}}
+|13°41′N|89°11′W|[[San Salvador]]|{{n/a}}|{{SLV}}
+|17°15′N|88°46′W|[[Belmopan]]|{{n/a}}|{{BLZ}}
+|17°30′N|88°11′W|[[Belize City]]|{{n/a}}|{{BLZ}}
+|30°42′N|88°03′W|[[Mobile, Alabama|Mobile]]|{{flag|Alabama}}|{{USA}}
+|43°03′N|87°57′W|[[Milwaukee]]|{{flag|Wisconsin}}|{{USA}}
+|41°53′N|87°38′W|[[Chicago]]|{{flag|Illinois}}|{{USA}}
+|14°06′N|87°13′W|[[Tegucigalpa]]|{{n/a}}|{{HON}}
+|12°37′N|87°09′W|[[Chinandega]]|{{n/a}}|{{NIC}}
+|21°10′N|86°51′W|[[Cancún]]|{{flag|Quintana Roo}}|{{MEX}}
+|33°39′N|86°49′W|[[Birmingham, Alabama|Birmingham]]|{{flag|Alabama}}|{{USA}}
+|36°10′N|86°47′W|[[Nashville, Tennessee|Nashville]]|{{flag|Tennessee}}|{{USA}}
+|12°08′N|86°15′W|[[Managua]]|{{n/a}}|{{NIC}}
+|39°46′N|86°09′W|[[Indianapolis]]|{{flag|Indiana}}|{{USA}}
+|79°59′N|85°56′W|[[Eureka, Nunavut|Eureka]]|{{flag|Nunavut}}|{{CAN}}
+|38°15′N|85°46′W|[[Louisville, Kentucky|Louisville]]|{{flag|Kentucky}}|{{USA}}
+|10°38′N|85°26′W|[[Liberia, Costa Rica|Liberia]]|{{n/a}}|{{CRI}}
+|41°05′N|85°08′W|[[Fort Wayne, Indiana|Fort Wayne]]|{{flag|Indiana}}|{{USA}}
+|9°58′N|84°50′W|[[Puntarenas]]|{{n/a}}|{{CRI}}
+|39°06′N|84°31′W|[[Cincinnati]]|{{flag|Ohio}}|{{USA}}
+|33°45′N|84°23′W|[[Atlanta]]|{{flag|Georgia (U.S. state)|name=Georgia}}|{{USA}}
+|46°32′N|84°21′W|[[Sault Ste. Marie, Ontario|Sault Ste. Marie]]|{{flag|Ontario}}|{{CAN}}
+|10°01′N|84°13′W|[[Alajuela]]|{{n/a}}|{{CRI}}
+|9°56′N|84°05′W|[[San José, Costa Rica|San José]]|{{n/a}}|{{CRI}}
+|35°58′N|83°57′W|[[Knoxville, Tennessee|Knoxville]]|{{flag|Tennessee}}|{{USA}}
+|42°20′N|83°03′W|[[Detroit]]|{{flag|Michigan}}|{{USA}}
+|9°59′N|83°02′W|[[Limón|Limon]]|{{n/a}}|{{CRI}}
+|42°17′N|83°00′W|[[Windsor, Ontario|Windsor]]|{{flag|Ontario}}|{{CAN}}
+|39°59′N|82°59′W|[[Columbus, Ohio|Columbus]]|{{flag|Ohio}}|{{USA}}
+|76°25′N|82°54′W|[[Grise Fiord]]|{{flag|Nunavut}}|{{CAN}}
+|27°57′N|82°28′W|[[Tampa, Florida|Tampa]]|{{flag|Florida}}|{{USA}}
+|23°08′N|82°23′W|[[Havana]]|{{n/a}}|{{CUB}}
+|24°34′N|81°47′W|[[Key West, Florida|Key West]]|{{flag|Florida}}|{{USA}}
+|41°29′N|81°40′W|[[Cleveland]]|{{flag|Ohio}}|{{USA}}
+|30°20′N|81°40′W|[[Jacksonville, Florida|Jacksonville]]|{{flag|Florida}}|{{USA}}
+|38°21′N|81°38′W|[[Charleston, West Virginia|Charleston]]|{{flag|West Virginia}}|{{USA}}
+|19°18′N|81°23′W|[[George Town, Cayman Islands|George Town]]|{{flag|Cayman Islands}}|{{UK}}
+|28°25′N|81°18′W|[[Orlando, Florida|Orlando]]|{{flag|Florida}}|{{USA}}
+|34°00′N|81°03′W|[[Columbia, South Carolina|Columbia]]|{{flag|South Carolina}}|{{USA}}
+|46°29′N|81°01′W|[[Greater Sudbury|Sudbury]]|{{flag|Ontario}}|{{CAN}}
+|35°14′N|80°51′W|[[Charlotte, North Carolina|Charlotte]]|{{flag|North Carolina}}|{{USA}}
+|25°47′N|80°13′W|[[Miami]]|{{flag|Florida}}|{{USA}}
+|40°27′N|80°00′W|[[Pittsburgh]]|{{flag|Pennsylvania}}|{{USA}}
+|2°11′S|79°53′W|[[Guayaquil]]|{{n/a}}|{{ECU}}
+|8°59′N|79°31′W|[[Panama City]]|{{n/a}}|{{PAN}}
+|46°18′N|79°27′W|[[North Bay, Ontario|North Bay]]|{{flag|Ontario}}|{{CAN}}
+|43°42′N|79°24′W|[[Toronto]]|{{flag|Ontario}}|{{CAN}}
+|8°07′S|79°02′W|[[Trujillo, Peru|Trujillo]]|{{n/a}}|{{PER}}
+|42°54′N|78°51′W|[[Buffalo, New York|Buffalo]]|{{flag|New York}}|{{USA}}
+|35°49′N|78°39′W|[[Raleigh, North Carolina|Raleigh]]|{{flag|North Carolina}}|{{USA}}
+|0°15′S|78°35′W|[[Quito]]|{{n/a}}|{{ECU}}
+|34°13′N|77°55′W|[[Wilmington, North Carolina|Wilmington]]|{{flag|North Carolina}}|{{USA}}  
+|43°10′N|77°37′W|[[Rochester, NY|Rochester]]|{{flag|New York}}|{{USA}}
+|25°04′N|77°20′W|[[Nassau, Bahamas|Nassau]]|{{n/a}}|{{BHS}}
+|38°54′N|77°02′W|[[Washington, D.C.|Washington]]|{{flag|District of Columbia}}|{{USA}}
+|12°03′S|77°02′W|[[Lima]]|{{n/a}}|{{PER}}
+|17°59′N|76°48′W|[[Kingston, Jamaica|Kingston]]|{{n/a}}|{{JAM}}
+|39°17′N|76°37′W|[[Baltimore]]|{{flag|Maryland}}|{{USA}}
+|3°25′N|76°31′W|[[Santiago de Cali]]|{{n/a}}|{{COL}}
+|36°51′N|75°59′W|[[Virginia Beach]]|{{flag|Virginia}}|{{USA}}
+|20°01′N|75°49′W|[[Santiago de Cuba]]|{{n/a}}|{{CUB}}
+|45°25′N|75°41′W|[[Ottawa]]|{{flag|Ontario}}|{{CAN}}
+|6°14′N|75°35′W|[[Medellín]]|{{n/a}}|{{COL}}
+|39°10′N|75°32′W|[[Dover, Delaware|Dover]]|{{flag|Delaware}}|{{USA}}
+|10°24′N|75°30′W|[[Cartagena, Colombia|Cartagena]]|{{n/a}}|{{COL}}
+|39°57′N|75°10′W|[[Philadelphia]]|{{flag|Pennsylvania}}|{{USA}}
+|10°58′N|74°48′W|[[Barranquilla]]|{{n/a}}|{{COL}}
+|40°13′N|74°46′W|[[Trenton, New Jersey|Trenton]]|{{flag|New Jersey}}|{{USA}}
+|13°10′S|74°13′W|[[Ayacucho]]|{{n/a}}|{{PER}}
+|39°48′N|74°06′W|[[Forked River]]|{{flag|New Jersey}}|{{USA}}
+|4°36′N|74°05′W|[[Bogotá]]|{{n/a}}|{{COL}}
+|40°43′N|74°04′W|[[Jersey City, New Jersey|Jersey City]]|{{flag|New Jersey}}|{{USA}}
+|40°40′N|73°56′W|[[New York City]]|{{flag|New York}}|{{USA}}
+|45°30′N|73°34′W|[[Montreal]]|{{flag|Quebec}}|{{CAN}}
+|3°44′S|73°15′W|[[Iquitos]]|{{n/a}}|{{PER}}
+|39°49′S|73°15′W|[[Valdivia, Chile|Valdivia]]|{{n/a}}|{{CHL}}
+|36°50′S|73°03′W|[[Concepción, Chile|Concepción]]|{{n/a}}|{{CHL}}
+|41°28′S|72°56′W|[[Puerto Montt]]|{{n/a}}|{{CHL}}
+|45°24′S|72°41′W|[[Puerto Aisén]]|{{n/a}}|{{CHL}}
+|41°46′N|72°40′W|[[Hartford, Connecticut|Hartford]]|{{flag|Connecticut}}|{{USA}}
+|38°45′S|72°40′W|[[Temuco, Chile|Temuco]]|{{n/a}}|{{CHL}}
+|44°15′N|72°34′W|[[Montpelier, Vermont|Montpelier]]|{{flag|Vermont}}|{{USA}}
+|7°54′N|72°30′W|[[Cúcuta]]|{{n/a}}|{{COL}}
+|18°32′N|72°20′W|[[Port-au-Prince]]|{{n/a}}|{{HAI}}
+|45°34′S|72°04′W|[[Coihaique]]|{{n/a}}|{{CHL}}
+|13°32′S|71°58′W|[[Cusco]]|{{n/a}}|{{PER}}
+|10°39′N|71°38′W|[[Maracaibo]]|{{n/a}}|{{VEN}}
+|33°03′S|71°37′W|[[Valparaíso]]|{{n/a}}|{{CHL}}
+|43°12′N|71°32′W|[[Concord, New Hampshire|Concord]]|{{flag|New Hampshire}}|{{USA}}
+|16°24′S|71°32′W|[[Arequipa]]|{{n/a}}|{{PER}}
+|41°49′N|71°25′W|[[Providence, Rhode Island|Providence]]|{{flag|Rhode Island}}|{{USA}}
+|41°09′S|71°18′W|[[San Carlos de Bariloche]]|{{flagicon|Río Negro (Argentina)}} [[Río Negro Province|Río Negro]]|{{ARG}}
+|29°54′S|71°15′W|[[La Serena, Chile|La Serena]]|{{n/a}}|{{CHL}}
+|46°49′N|71°13′W|[[Quebec City]]|{{flag|Quebec}}|{{CAN}}
+|21°28′N|71°08′W|[[Cockburn Town]]|{{flag|Turks and Caicos Islands}}|{{UK}}
+|42°21′N|71°04′W|[[Boston]]|{{flag|Massachusetts}}|{{USA}}
+|53°10′S|70°56′W|[[Punta Arenas]]|{{n/a}}|{{CHL}}
+|33°27′S|70°40′W|[[Santiago, Chile|Santiago]]|{{n/a}}|{{CHL}}
+|23°39′S|70°24′W|[[Antofagasta]]|{{n/a}}|{{CHL}}
+|18°29′S|70°20′W|[[Arica]]|{{n/a}}|{{CHL}}
+|27°22′S|70°20′W|[[Copiapó]]|{{n/a}}|{{CHL}}
+|20°13′S|70°09′W|[[Iquique]]|{{n/a}}|{{CHL}}
+|12°31′N|70°02′W|[[Oranjestad, Aruba|Oranjestad]]|{{flag|Aruba}}|{{NED}}
+|18°28′N|69°57′W|[[Santo Domingo]]|{{n/a}}|{{DOM}}
+|44°19′N|69°47′W|[[Augusta, Maine|Augusta]]|{{flag|Maine}}|{{USA}}
+|77°28′N|69°14′W|[[Qaanaaq]]|{{flag|Greenland}}|{{DEN}}
+|51°38′S|69°13′W|[[Río Gallegos, Santa Cruz|Río Gallegos]]|{{flag|Santa Cruz}}|{{ARG}} 
+|12°07′N|68°56′W|[[Willemstad]]|{{flag|Curaçao}}|{{NLD}}
+|22°28′S|68°56′W|[[Calama, Chile|Calama]]|{{n/a}}|{{CHL}}
+|32°53′S|68°49′W|[[Mendoza, Argentina|Mendoza]]|{{flag|Mendoza}}|{{ARG}}
+|63°45′N|68°31′W|[[Iqaluit]]|{{flag|Nunavut}}|{{CAN}}
+|54°48′S|68°18′W|[[Ushuaia]]|{{flag|Tierra del Fuego}}|{{ARG}}
+|16°30′S|68°09′W|[[La Paz]]|{{n/a}}|{{BOL}}
+|9°58′S|67°49′W|[[Rio Branco]]|{{flag|Acre}}|{{BRA}}
+|5°36′N|67°42′W|[[Puerto Ayacucho]]|{{n/a}}|{{VEN}}
+|54°56′S|67°37′W |[[Puerto Williams]]|{{n/a}}|{{CHL}}
+|10°15′N|67°36′W|[[Maracay]]|{{n/a}}|{{VEN}}
+|45°52′S|67°29′W|[[Comodoro Rivadavia]]|{{flag|Chubut}}|{{ARG}}
+|55°05′S|67°05′W |[[Puerto Toro]]|{{n/a}}|{{CHL}}
+|10°30′N|66°55′W|[[Caracas]]|{{n/a}}|{{VEN}}
+|45°57′N|66°40′W|[[Fredericton]]|{{flag|New Brunswick}}|{{CAN}}
+|43°50′N|66°07′W|[[Yarmouth, Nova Scotia|Yarmouth]]|{{flag|Nova Scotia}}|{{CAN}}                 
+|45°17′N|66°05′W|[[Saint John, New Brunswick|Saint John]]|{{flag|New Brunswick}} |{{CAN}}
+|18°27′N|66°04′W|[[San Juan, Puerto Rico|San Juan]]|{{flag|Puerto Rico}}|{{USA}}
+|24°47′S|65°25′W|[[Salta]]|{{flag|Salta}}|{{ARG}}
+|43°15′S|65°18′W|[[Trelew]]|{{flag|Chubut}}|{{ARG}}
+|19°03′S|65°15′W|[[Sucre]]|{{n/a}}|{{BOL}}
+|26°49′S|65°13′W|[[San Miguel de Tucumán]]|{{flag|Tucumán}}|{{ARG}}
+|18°21′N|64°57′W|[[Charlotte Amalie, United States Virgin Islands|Charlotte Amalie]]|{{flag|United States Virgin Islands}}|{{USA}}
+|32°18′N|64°47′W|[[Hamilton, Bermuda|Hamilton]]|{{flag|Bermuda}}|{{GBR}}
+|46°08′N|64°46′W|[[Moncton]]|{{flag|New Brunswick}} |{{CAN}}
+|18°26′N|64°37′W|[[Road Town]]|{{flag|British Virgin Islands}}|{{GBR}}
+|31°25′S|64°11′W|[[Córdoba, Argentina|Córdoba]]|{{flag|Córdoba}}|{{ARG}}
+|8°46′S|63°54′W|[[Porto Velho]]|{{flag|Rondônia}}|{{BRA}}
+|8°07′N|63°33′W|[[Ciudad Bolívar]]|{{n/a}}|{{VEN}}
+|44°51′N|63°12′W|[[Halifax Regional Municipality|Halifax]]|{{flag|Nova Scotia}}|{{CAN}}           
+|17°48′S|63°10′W|[[Santa Cruz de la Sierra]]|{{n/a}}|{{BOL}}
+|46°14′N|63°09′W|[[Charlottetown]]|{{flag|Prince Edward Island}}|{{CAN}}
+|18°13′N|63°03′W|[[The Valley, Anguilla|The Valley]]|{{flag|Anguilla}}|{{GBR}}
+|17°18′N|62°44′W|[[Basseterre]]|{{n/a}}|{{SKN}}
+|82°30′N|62°20′W|[[Alert, Nunavut|Alert]]|{{flag|Nunavut}}|{{CAN}}
+|38°43′S|62°16′W|[[Bahía Blanca]]|{{flag|Buenos Aires Province}}|{{ARG}}
+|17°07′N|61°51′W|[[St. John's, Antigua and Barbuda|St. John's]]|{{n/a}}|{{ATG}}
+|12°03′N|61°45′W|[[St. George's, Grenada|St. George's]]|{{n/a}}|{{GRD}}
+|16°00′N|61°44′W|[[Basse-Terre]]|[[Guadeloupe]]|{{FRA}}
+|10°40′N|61°31′W|[[Port of Spain]]|{{n/a}}|{{TTO}}
+|10°17′N|61°28′W|[[San Fernando, Trinidad and Tobago|San Fernando]]|{{n/a}}|{{TTO}}
+|15°18′N|61°23′W|[[Roseau]]|{{n/a}}|{{DMA}}
+|10°30′N|61°23′W|[[Chaguanas]]|{{n/a}}|{{TTO}}
+|13°09′N|61°14′W|[[Kingstown]]|{{n/a}}|{{VCT}}
+|14°36′N|61°05′W|[[Fort-de-France]]|[[Martinique]]|{{FRA}}
+|14°01′N|60°59′W|[[Castries]]|{{n/a}}|{{LCA}}
+|2°49′N|60°40′W|[[Boa Vista, Roraima|Boa Vista]]|{{flag|Roraima}}|{{BRA}}
+|32°57′S|60°40′W|[[Rosario, Santa Fe|Rosario]]|{{flag|Santa Fe}}|{{ARG}}
+|3°06′S|60°01′W|[[Manaus]]|{{flag|Amazonas}}|{{BRA}}
+|13°06′N|59°37′W|[[Bridgetown]]|{{n/a}}|{{BRB}}
+|34°36′S|58°23′W|{{flag|Buenos Aires}}|{{n/a}}|{{ARG}}
+|6°48′N|58°10′W|[[Georgetown, Guyana|Georgetown]]|{{n/a}}|{{GUY}}
+|51°42′S|57°52′W|[[Stanley, Falkland Islands|Stanley]]|{{flagcountry|Falkland Islands}}|{{UK}}
+|25°17′S|57°38′W|[[Asunción]]|{{n/a}}|{{PAR}}
+|34°53′S|56°11′W|[[Montevideo]]|{{n/a}}|{{URY}}
+|46°47′N|56°11′W|[[Saint-Pierre, Saint Pierre and Miquelon|Saint-Pierre]]|[[Saint Pierre and Miquelon]]|{{FRA}}
+|15°36′S|56°06′W|[[Cuiabá]]|{{flag|Mato Grosso}}|{{BRA}}
+|11°51′S|55°39′W|[[Sinop, Mato Grosso|Sinop]]|{{flag|Mato Grosso}}|{{BRA}}
+|5°52′N|55°10′W|[[Paramaribo]]|{{n/a}}|{{SUR}}
+|25°31′S|54°37′W|[[Ciudad del Este]]|{{n/a}}|{{PAR}}
+|20°28′S|54°37′W|[[Campo Grande]]|{{flag|Mato Grosso do Sul}}|{{BRA}}
+|33°41′S|53°27′W|[[Chuí, Rio Grande do Sul|Chuí]]|{{flag|Rio Grande do Sul}}|{{BRA}}
+|47°34′N|52°42′W|[[St. John's, Newfoundland and Labrador|St. John's]]|{{flag|Newfoundland and Labrador}}|{{CAN}}
+|31°46′S|52°21′W|[[Pelotas]]|{{flag|Rio Grande do Sul}}|{{BRA}}
+|4°55′N|52°20′W|[[Cayenne]]|[[French Guiana]]|{{FRA}}
+|64°11′N|51°44′W|[[Nuuk|Nuuk (Godthåb)]]|{{flag|Greenland}}|{{DEN}}
+|30°02′S|51°14′W|[[Porto Alegre]]|{{flag|Rio Grande do Sul}}|{{BRA}}
+|0°02′N|51°04′W|[[Macapá]]|{{flag|Amapá}}|{{BRA}} 
+|22°40′S|50°25′W|[[Assis]]|{{flag|São Paulo}}|{{BRA}}
+|20°48′S|49°23′W|[[São José do Rio Preto]]|{{flag|São Paulo}}|{{BRA}}
+|16°40′S|49°15′W|[[Goiânia]]|{{flag|Goiás}}|{{BRA}}
+|25°25′S|49°15′W|[[Curitiba]]|{{flag|Paraná}}|{{BRA}}
+|22°19′S|49°04′W|[[Bauru]]|{{flag|São Paulo}}|{{BRA}}
+|1°27′S|48°30′W|[[Belém]]|{{flag|Pará}}|{{BRA}}
+|27°50′S|48°25′W|[[Florianópolis]]|{{flag|Santa Catarina}}|{{BRA}}
+|10°11′S|48°20′W|[[Palmas, Tocantins|Palmas]]|{{flag|Tocantins}}|{{BRA}}
+|18°55′S|48°17′W|[[Uberlândia]]|{{flag|Minas Gerais}}|{{BRA}}
+|21°48′S|48°11′W|[[Araraquara]]|{{flag|São Paulo}}|{{BRA}}
+|15°48′S|47°52′W|[[Brasília]]|{{flagicon|Distrito Federal (Brazil)}} [[Federal District (Brazil)|Distrito Federal]]|{{BRA}}
+|21°11′S|47°48′W|[[Ribeirão Preto]]|{{flag|São Paulo}}|{{BRA}}
+|5°32′S|47°29′W|[[Imperatriz]]|{{flag|Maranhão}}|{{BRA}}
+|22°54′S|47°03′W|[[Campinas]]|{{flag|São Paulo}}|{{BRA}}
+|23°33′S|46°38′W|[[São Paulo]]|{{flag|São Paulo}}|{{BRA}}
+|21°47′S|46°34′W|[[Poços de Caldas]]|{{flag|Minas Gerais}}|{{BRA}}
+|60°43′N|46°02′W|[[Qaqortoq]]|{{flag|Greenland}}|{{DEN}}
+|23°11′S|45°53′W|[[São José dos Campos]]|{{flag|São Paulo}}|{{BRA}}
+|2°32′S|44°18′W|[[São Luís]]|{{flag|Maranhão}}|{{BRA}}
+|19°55′S|43°56′W|[[Belo Horizonte]]|{{flag|Minas Gerais}}|{{BRA}}
+|21°46′S|43°21′W|[[Juiz de Fora]]|{{flag|Minas Gerais}}|{{BRA}}
+|22°55′S|43°12′W|[[Rio de Janeiro]]|{{flag|Rio de Janeiro}}|{{BRA}}
+|5°06′S|42°48′W|[[Teresina]]|{{flag|Piauí}}|{{BRA}}
+|18°51′S|41°56′W|[[Governador Valadares]]|{{flag|Minas Gerais}}|{{BRA}}
+|9°24′S|40°30′W|[[Petrolina]]|{{flag|Pernambuco}}|{{BRA}}
+|20°19′S|40°20′W|[[Vitória, Brazil|Vitória]]|{{flag|Espírito Santo}}|{{BRA}}
+|3°40′S|40°14′W|[[Sobral]]|{{flag|Ceará}}|{{BRA}}
+|7°12′S|39°20′W|[[Juazeiro do Norte]]|{{flag|Ceará}}|{{BRA}}
+|14°47′S|39°03′W|[[Ilhéus]]|{{flag|Bahia}}|{{BRA}}
+|3°43′S|38°33′W|[[Fortaleza]]|{{flag|Ceará}}|{{BRA}}
+|12°58′S|38°29′W|[[Salvador, Bahia|Salvador]]|{{flag|Bahia}}|{{BRA}}
+|10°55′S|37°03′W|[[Aracaju]]|{{flag|Sergipe}}|{{BRA}}
+|54°17′S|36°30′W|[[Grytviken]]|{{flagcountry|South Georgia and the South Sandwich Islands}}|{{UK}}
+|8°53′S|36°30′W|[[Garanhuns]]|{{flag|Pernambuco}}|{{BRA}}
+|8°17′S|35°59′W|[[Caruaru]]|{{flag|Pernambuco}}|{{BRA}}
+|7°14′S|35°53′W|[[Campina Grande]]|{{flag|Paraíba}}|{{BRA}}
+|9°40′S|35°44′W|[[Maceió]]|{{flag|Alagoas}}|{{BRA}}
+|5°47′S|35°12′W|[[Natal, Rio Grande do Norte|Natal]]|{{flag|Rio Grande do Norte}}|{{BRA}}
+|8°03′S|34°54′W|[[Recife]]|{{flag|Pernambuco}}|{{BRA}}
+|7°05′S|34°50′W|[[João Pessoa, Paraíba|João Pessoa]]|{{flag|Paraíba}}|{{BRA}} 
+|3°51′S|32°25′W|[[Fernando de Noronha]]|{{flag|Pernambuco}}|{{BRA}}
+|39°28′N|31°14′W|[[Flores Island (Azores)|Flores Island]]|{{flag|Azores}}|{{POR}}
+|38°35′N|28°43′W|[[Horta (Azores)|Horta]]|{{flag|Azores}}|{{POR}}
+|38°29′N|27°13′W|[[Angra do Heroísmo]]|{{flag|Azores}}|{{POR}}
+|37°49′N|25°45′W|[[Ponta Delgada, São Miguel Island|Ponta Delgada]]|{{flag|Azores}}|{{POR}}
+|14°55′N|23°31′W|[[Praia]]|{{n/a}}|{{CPV}} 
+|66°05′N|23°08′W|[[Ísafjörður]]|{{n/a}}|{{ISL}}
+|64°08′N|21°56′W|[[Reykjavík]]|{{n/a}}|{{ISL}}
+|65°41′N|18°06′W|[[Akureyri]]|{{n/a}}|{{ISL}}
+|14°42′N|17°27′W|[[Dakar]]|{{n/a}}|{{SEN}}
+|14°47′N|16°55′W|[[Thiès]]|{{n/a}}|{{SEN}}
+|32°39'N|16°55′W|[[Funchal]]|{{flag|Madeira}}|{{POR}}
+|81°36′N|16°40′W|[[Nord, Greenland|Nord]]|{{flag|Greenland}}|{{DEN}}
+|13°26′N|16°40′W|[[Serekunda]]|{{n/a}}|{{GAM}}
+|13°16′N|16°39′W|[[Brikama]]|{{n/a}}|{{GAM}}
+|13°27′N|16°35′W|[[Banjul]]|{{n/a}}|{{GAM}}
+|28°28′N|16°15′W|[[Santa Cruz de Tenerife]]|{{flag|Canary Islands}}|{{ESP}}
+|18°06′N|15°57′W|[[Nouakchott]]|{{n/a}}|{{MRT}}
+|11°51′N|15°34′W|[[Bissau]]|{{n/a}}|{{flag|Guinea-Bissau}} 
+|28°09′N|15°25′W|[[Las Palmas de Gran Canaria]]|{{flag|Canary Islands}}|{{ESP}}
+|9°31′N|13°43′W|[[Conakry]]|{{n/a}}|{{GUI}}
+|8°29′N|13°14′W|[[Freetown]]|{{n/a}}|{{flag|Sierra Leone}}
+|27°09′N|13°12′W|[[El Aaiún]]|{{flag|Western Sahara}}|{{MAR}}
+|6°19′N|10°48′W|[[Monrovia]]|{{n/a}}|{{LBR}}
+|38°43′N|9°08′W|[[Lisbon]]|{{n/a}}|{{PRT}}
+|7°45′N|8°49′W|[[Nzérékoré]]|{{n/a}}|{{GUI}}
+|41°10′N|8°37′W|[[Porto]]|{{n/a}}|{{PRT}}
+|51°54′N|8°28′W|[[Cork (city)|Cork]]|{{n/a}}|{{IRL}}
+|31°38′N|8°01′W|[[Marrakech]]|{{n/a}}|{{MAR}}
+|12°39′N|8°00′W|[[Bamako]]|{{n/a}}|{{MLI}}
+|33°32′N|7°35′W|[[Casablanca]]|{{n/a}}|{{MAR}}
+|12°52′N|7°34′W|[[Koulikoro]]|{{n/a}}|{{MLI}}
+|34°02′N|6°50′W|[[Rabat]]|{{n/a}}|{{MAR}}
+|62°01′N|6°46′W|[[Tórshavn]]|{{flag|Faroe Islands}}|{{DEN}}
+|53°21′N|6°16′W|[[Dublin]]|{{n/a}}|{{IRL}}
+|37°23′N|5°59′W|[[Seville|Sevilla]]|{{flag|Andalusia}}|{{ESP}}
+|54°36′N|5°56′W|[[Belfast]]|[[Northern Ireland]]|{{UK}}
+|15°55′S|5°43′W|[[Jamestown, Saint Helena|Jamestown]]|[[Saint Helena]]|{{GBR}}
+|36°08′N|5°21′W|[[Gibraltar]]|{{flag|Gibraltar}}|{{GBR}}
+|6°49′N|5°17′W|[[Yamoussoukro]]|{{n/a}}|{{CIV}}
+|54°09′N|4°29′W|[[Douglas, Isle of Man|Douglas]]|{{flag|Isle of Man}}|{{GBR}}
+|36°43′N|4°25′W|[[Málaga]]|{{flag|Andalusia}}|{{ESP}}
+|11°11′N|4°17′W|[[Bobo-Dioulasso]]|{{n/a}}|{{BUR}}
+|55°51′N|4°16′W|[[Glasgow]]|{{SCO}}|{{UK}}
+|57°28′N|4°14′W|[[Inverness]]|{{SCO}}|{{UK}}
+|50°22′N|4°09′W|[[Plymouth]]|{{ENG}}|{{UK}}
+|57°09′N|4°07′W|[[Aberdeen]]|{{SCO}}|{{UK}}
+|5°19′N|4°02′W|[[Abidjan]]|{{n/a}}|{{CIV}}
+|51°37′N|3°57′W|[[Swansea]]|{{WAL}}|{{UK}}
+|40°24′N|3°41′W|[[Madrid]]|{{flag|Madrid}}|{{ESP}}
+|50°43′N|3°32′W|[[Exeter]]|{{ENG}}|{{UK}}
+|55°57′N|3°11′W|[[Edinburgh]]|{{SCO}}|{{UK}}
+|51°29′N|3°11′W|[[Cardiff]]|{{WAL}}|{{UK}}
+|16°47′N|3°01′W|[[Timbuktu]]|{{n/a}}|{{MLI}}
+|53°24′N|2°59′W|[[Liverpool]]|{{ENG}}|{{UK}}
+|43°15′N|2°55′W|[[Bilbao]]|{{flag|Basque Country}}|{{ESP}}
+|51°27′N|2°35′W|[[Bristol]]|{{ENG}}|{{UK}}
+|51°23′N|2°22′W|[[Bath, Somerset|Bath]]|{{ENG}}|{{UK}}
+|51°52′N|2°14′W|[[Gloucester]]|{{ENG}}|{{UK}}
+|53°28′N|2°14′W|[[Manchester]]|{{ENG}}|{{UK}}
+|52°29′N|1°54′W|[[Birmingham]]|{{ENG}}|{{UK}}
+|4°55′N|1°46′W|[[Sekondi-Takoradi]]|{{n/a}}|{{GHA}}
+|53°48′N|1°45′W|[[Bradford]]|{{ENG}}|{{UK}}
+|6°40′N|1°37′W|[[Kumasi]]|{{n/a}}|{{GHA}} 
+|54°58′N|1°37′W|[[Newcastle upon Tyne]]|{{ENG}}|{{UK}}
+|47°13′N|1°33′W|[[Nantes]]|{{n/a}}|{{FRA}}
+|53°48′N|1°33′W|[[Leeds]]|{{ENG}}|{{UK}}
+|12°21′N|1°32′W|[[Ouagadougou]]|{{n/a}}|{{BUR}}
+|52°24′N|1°31′W|[[Coventry]]|{{ENG}}|{{UK}}
+|53°23′N|1°28′W|[[Sheffield]]|{{ENG}}|{{UK}}
+|50°54′N|1°24′W|[[Southampton]]|{{ENG}}|{{UK}}
+|51°45′N|1°15′W|[[Oxford]]|{{ENG}}|{{UK}}
+|52°57′N|1°08′W|[[Nottingham]]|{{ENG}}|{{UK}}
+|52°38′N|1°08′W|[[Leicester]]|{{ENG}}|{{UK}}
+|50°49′N|1°05′W|[[Portsmouth]]|{{ENG}}|{{UK}}
+|41°39′N|0°53′W|[[Zaragoza]]|{{flag|Aragon}}|{{ESP}}
+|9°24′N|0°51′W|[[Tamale, Ghana|Tamale]]|{{n/a}}|{{GHA}}
+|44°50′N|0°35′W|[[Bordeaux]]|{{n/a}}|{{FRA}}
+|39°28′N|0°23′W|[[Valencia, Spain|Valencia]]|{{flagcountry|Valencian Community}}|{{ESP}}
+|52°35′N|0°15′W|[[Peterborough]]|{{ENG}}|{{UK}}
+|5°33′N|0°12′W|[[Accra]]|{{n/a}}|{{GHA}}
+|50°50′N|0°09′W|[[Brighton and Hove]]|{{ENG}}|{{UK}}
+|51°30′N|0°08′W|[[London]]|{{ENG}}|{{UK}}
+|51°29′N|0°00′E|[[Greenwich]]|{{ENG}}|{{UK}}
+|52°12′N|0°07′E|[[Cambridge]]|{{ENG}}|{{UK}}
+|6°08′N|1°13′E|[[Lomé]]|{{n/a}}|{{TOG}}
+|52°38′N|1°18′E|[[Norwich]]|{{ENG}}|{{UK}}
+|38°59′N|1°26′E|[[Ibiza]]|{{flag|Balearic Islands}}|{{ESP}}
+|43°36′N|1°27′E|[[Toulouse]]|{{n/a}}|{{FRA}}
+|42°30′N|1°30′E|[[Andorra la Vella]]|{{n/a}}|{{AND}}
+|13°31′N|2°06′E|[[Niamey]]|{{n/a}}|{{NIG}}
+|41°23′N|2°11′E|[[Barcelona]]|{{flag|Catalonia}}|{{ESP}}
+|48°51′N|2°21′E|[[Paris]]|{{n/a}}|{{FRA}}
+|6°22′N|2°26′E|[[Cotonou]]|{{n/a}}|{{BEN}}
+|6°30′N|2°36′E|[[Porto-Novo]]|{{n/a}}|{{BEN}}
+|39°34′N|2°39′E|[[Palma, Majorca|Palma]]|{{flag|Balearic Islands}}|{{ESP}}
+|36°46′N|3°13′E|[[Algiers]]|{{n/a}}|{{DZA}}
+|6°27′N|3°24′E|[[Lagos]]|{{n/a}}|{{NGA}}
+|51°03′N|3°44′E|[[Ghent]]|{{n/a}}|{{BEL}}
+|7°24′N|3°55′E|[[Ibadan]]|{{n/a}}|{{NGA}}
+|52°05′N|4°19′E|[[The Hague]]|{{n/a}}|{{NLD}}
+|50°51′N|4°21′E|[[Brussels]]|{{n/a}}|{{BEL}}
+|51°13′N|4°24′E|[[Antwerp]]|{{n/a}}|{{BEL}}
+|51°56′N|4°29′E|[[Rotterdam]]|{{n/a}}|{{NLD}}
+|52°10′N|4°29′E|[[Leiden]]|{{n/a}}|{{NLD}}
+|52°23′N|4°38′E|[[Haarlem]]|{{n/a}}|{{NLD}}
+|45°46′N|4°51′E|[[Lyon]]|{{n/a}}|{{FRA}}
+|52°22′N|4°54′E|[[Amsterdam]]|{{n/a}}|{{NLD}}
+|52°06′N|5°07′E|[[Utrecht (city)|Utrecht]]|{{n/a}}|{{NLD}}
+|60°23′N|5°20′E|[[Bergen]]|{{n/a}}|{{NOR}}
+|43°18′N|5°22′E|[[Marseille]]|{{n/a}}|{{FRA}}
+|6°19′N|5°36′E|[[Benin City]]|{{n/a}}|{{NGA}}
+|50°51′N|5°41′E|[[Maastricht]]|{{n/a}}|{{NLD}}
+|49°37′N|6°07′E|[[Luxembourg (city)|Luxembourg]]|{{n/a}}|{{LUX}}
+|46°12′N|6°09′E|[[Geneva]]|{{n/a}}|{{CHE}}
+|53°13′N|6°33′E|[[Groningen (city)|Groningen]]|{{n/a}}|{{NLD}}
+|46°31′N|6°38′E|[[Lausanne]]|{{n/a}}|{{CHE}}
+|0°20′N|6°41′E|[[São Tomé]]|{{n/a}}|{{flag|São Tomé and Príncipe}}
+|51°14′N|6°47′E|[[Düsseldorf]]|{{flag|North Rhine-Westphalia}}|{{DEU}}
+|52°13′N|6°54′E|[[Enschede]]|{{n/a}}|{{NLD}}
+|50°57′N|6°58′E|[[Cologne]]|{{flag|North Rhine-Westphalia}}|{{DEU}}
+|4°45′N|7°00′E|[[Port Harcourt]]|{{n/a}}|{{NGA}}
+|43°33′N|7°01′E|[[Cannes]]|{{n/a}}|{{FRA}}
+|43°42′N|7°16′E|[[Nice]]|{{n/a}}|{{FRA}}
+|43°44′N|7°25′E|[[Monaco]]|{{n/a}}|{{MCO}}
+|46°57′N|7°27′E|[[Bern]]|{{n/a}}|{{CHE}}
+|9°04′N|7°29′E|[[Abuja]]|{{n/a}}|{{NGA}}
+|6°27′N|7°31′E|[[Enugu]]|{{n/a}}|{{NGA}}
+|47°34′N|7°36′E|[[Basel]]|{{n/a}}|{{CHE}}
+|45°04′N|7°42′E|[[Turin]]|{{flag|Piedmont}}|{{ITA}}
+|48°35′N|7°45′E|[[Strasbourg]]|{{n/a}}|{{FRA}}
+|58°10′N|8°00′E|[[Kristiansand]]|{{n/a}}|{{NOR}}
+|55°29′N|8°27′E|[[Esbjerg]]|{{n/a}}|{{DNK}}
+|12°00′N|8°31′E|[[Kano]]|{{n/a}}|{{NGA}}
+|47°22′N|8°33′E|[[Zürich]]|{{n/a}}|{{CHE}}
+|50°07′N|8°41′E|[[Frankfurt|Frankfurt am Main]]|{{flag|Hesse}}|{{DEU}}
+|3°45′N|8°47′E|[[Malabo]]|{{n/a}}|{{flag|Equatorial Guinea}}
+|53°05′N|8°48′E|[[Bremen]]|{{flag|Bremen}}|{{DEU}}
+|39°15′N|9°03′E|[[Cagliari]]|{{flag|Sardinia}}|{{ITA}}
+|48°47′N|9°11′E|[[Stuttgart]]|{{flag|Baden-Württemberg}}|{{DEU}}
+|45°28′N|9°11′E|[[Milan]]|{{flag|Lombardy}}|{{ITA}}
+|0°23′N|9°27′E|[[Libreville]]|{{n/a}}|{{GAB}}
+|47°08′N|9°31′E|[[Vaduz]]|{{n/a}}|{{LIE}}
+|4°03′N|9°42′E|[[Douala]]|{{n/a}}|{{CMR}}
+|52°22′N|9°43′E|[[Hannover]]|{{flag|Lower Saxony}}|{{DEU}}
+|53°34′N|10°00′E|[[Hamburg]]|{{flag|Hamburg}}|{{DEU}}
+|54°20′N|10°08′E|[[Kiel]]|{{flag|Schleswig-Holstein}}|{{DEU}}
+|36°48′N|10°11′E|[[Tunis]]|{{n/a}}|{{TUN}}
+|56°09′N|10°13′E|[[Aarhus]]|{{n/a}}|{{DEN}}
+|55°24′N|10°23′E|[[Odense]]|{{n/a}}|{{DNK}}
+|63°26′N|10°24′E|[[Trondheim]]|{{n/a}}|{{NOR}}
+|61°08′N|10°26′E|[[Lillehammer]]|{{n/a}}|{{NOR}}
+|59°57′N|10°45′E|[[Oslo]]|{{n/a}}|{{NOR}}
+|34°44′N|10°46′E|[[Sfax]]|{{n/a}}|{{TUN}}
+|63°29′N|11°10′E|[[Stjørdal]]|{{n/a}}|{{NOR}}
+|59°17′N|11°12′E|[[Sarpsborg]]|{{n/a}}|{{NOR}}
+|43°47′N|11°15′E|[[Florence]]|{{flag|Tuscany}}|{{ITA}}
+|44°30′N|11°21′E|[[Bologna]]|{{flag|Emilia-Romagna}}|{{ITA}}
+|47°16′N|11°23′E|[[Innsbruck]]|{{n/a}}|{{AUT}}
+|3°52′N|11°31′E|[[Yaoundé]]|{{n/a}}|{{CMR}}
+|48°08′N|11°34′E|[[Munich]]|{{flag|Bavaria}}|{{DEU}}
+|78°55′N|11°56′E|[[Ny-Ålesund]]|[[Svalbard]]|{{NOR}}
+|57°42′N|11°58′E|[[Göteborg]]|{{n/a}}|{{SWE}}
+|45°26′N|12°20′E|[[Venice]]|{{flag|Veneto}}|{{ITA}}
+|51°20′N|12°23′E|[[Leipzig]]|{{flag|Saxony}}|{{DEU}}
+|43°56′N|12°27′E|[[San Marino, San Marino|San Marino]]|{{n/a}}|{{SMR}}
+|41°54′N|12°27′E|[[Vatican City]]|{{n/a}}|{{VAT}}
+|41°54′N|12°30′E|[[Rome]]|{{flag|Lazio}}|{{ITA}}
+|55°41′N|12°34′E|[[Copenhagen]]|{{n/a}}|{{DNK}}
+|55°35′N|13°02′E|[[Malmö]]|{{n/a}}|{{SWE}}
+|47°48′N|13°02′E|[[Salzburg]]|{{n/a}}|{{AUT}}
+|32°54′N|13°11′E|[[Tripoli]]|{{n/a}}|{{LBA}}
+|8°50′S|13°14′E|[[Luanda]]|{{n/a}}|{{AGO}}
+|38°07′N|13°22′E|[[Palermo]]|{{flag|Sicily}}|{{ITA}}
+|52°31′N|13°23′E|[[Berlin]]|{{flag|Berlin}}|{{DEU}}
+|51°02′N|13°44′E|[[Dresden]]|{{flag|Saxony}}|{{DEU}}
+|40°51′N|14°16′E|[[Naples]]|{{flag|Campania}}|{{ITA}}
+|48°18′N|14°17′E|[[Linz]]|{{n/a}}|{{AUT}}
+|50°05′N|14°25′E|[[Prague]]|{{n/a}}|{{CZE}}
+|27°02′N|14°26′E|[[Sabha, Libya|Sabha]]|{{n/a}}|{{LBA}}
+|35°54′N|14°28′E|[[Birkirkara]]|{{n/a}}|{{MLT}}
+|46°03′N|14°31′E|[[Ljubljana]]|{{n/a}}|{{SVN}}
+|35°54′N|14°31′E|[[Valletta]]|{{n/a}}|{{MLT}}
+|67°18′N|14°33′E|[[Bodø]]|{{n/a}}|{{NOR}}
+|63°11′N|14°40′E|[[Östersund]]|{{n/a}}|{{SWE}}
+|12°07′N|15°03′E|[[N'Djamena]]|{{n/a}}|{{CHA}}
+|37°30′N|15°05′E|[[Catania]]|{{flag|Sicily}}|{{ITA}}
+|4°16′S|15°18′E|[[Brazzaville]]|{{n/a}}|{{flag|Republic of the Congo}}
+|4°20′S|15°19′E|[[Kinshasa]]|{{n/a}}|{{COD}}
+|47°04′N|15°26′E|[[Graz]]|{{n/a}}|{{AUT}}
+|38°11′N|15°33′E|[[Messina]]|{{flag|Sicily}}|{{ITA}}
+|78°13′N|15°39′E|[[Longyearbyen]]|[[Svalbard]]|{{NOR}}
+|12°46′S|15°44′E|[[Huambo]]|{{n/a}}|{{AGO}}
+|45°49′N|15°59′E|[[Zagreb]]|{{n/a}}|{{CRO}}
+|8°34′N|16°05′E|[[Moundou]]|{{n/a}}|{{CHA}}
+|58°36′N|16°12′E|[[Norrköping]]|{{n/a}}|{{SWE}}
+|48°13′N|16°22′E|[[Vienna]]|{{n/a}}|{{AUT}}
+|43°30′N|16°26′E|[[Split (city)|Split]]|{{n/a}}|{{CRO}}
+|22°34′S|17°05′E|[[Windhoek]]|{{n/a}}|{{NAM}}
+|48°09′N|17°07′E|[[Bratislava]]|{{n/a}}|{{SVK}}
+|62°24′N|17°19′E|[[Sundsvall]]|{{n/a}}|{{SWE}}
+|68°25′N|17°34′E|[[Narvik]]|{{n/a}}|{{NOR}}
+|59°51′N|17°39′E|[[Uppsala]]|{{n/a}}|{{SWE}}
+|59°20′N|18°04′E|[[Stockholm]]|{{n/a}}|{{SWE}}
+|43°51′N|18°21′E|[[Sarajevo]]|{{n/a}}|{{BIH}}
+|33°56′S|18°25′E|[[Cape Town]]|[[Western Cape]]|{{ZAF}}
+|54°30′N|18°33′E|[[Gdynia]]|{{n/a}}|{{POL}}
+|4°22′N|18°35′E|[[Bangui]]|{{n/a}}|{{flag|Central African Republic}}
+|54°22′N|18°38′E|[[Gdańsk]]|{{n/a}}|{{POL}}
+|63°17′N|18°44′E|[[Örnsköldsvik]]|{{n/a}}|{{SWE}}
+|69°41′N|18°57′E|[[Tromsø]]|{{n/a}}|{{NOR}}
+|47°28′N|19°03′E|[[Budapest]]|{{n/a}}|{{HUN}}
+|42°26′N|19°16′E|[[Podgorica]]|{{n/a}}|{{MNE}}
+|41°20′N|19°49′E|[[Tirana]]|{{n/a}}|{{ALB}}
+|45°15′N|19°51′E|[[Novi Sad]]|{{flag|Vojvodina}}|{{SRB}}
+|50°04′N|19°56′E|[[Kraków]]|{{n/a}}|{{POL}}
+|32°07′N|20°04′E|[[Benghazi]]|{{n/a}}|{{LBA}}
+|67°51′N|20°13′E|[[Kiruna]]|{{n/a}}|{{SWE}}
+|63°50′N|20°16′E|[[Umeå]]|{{n/a}}|{{SWE}}
+|44°49′N|20°28′E|[[Belgrade]]|{{n/a}}|{{SRB}}
+|54°43′N|20°31′E|[[Kaliningrad]]|[[Kaliningrad Oblast]]|{{RUS}}
+|64°45′N|20°57′E|[[Skellefteå]]|{{n/a}}|{{SWE}}
+|52°14′N|21°01′E|[[Warsaw]]|{{n/a}}|{{POL}}
+|42°40′N|21°10′E|[[Pristina]]|{{flag|Kosovo}}|{{SRB}}
+|42°00′N|21°26′E|[[Skopje]]|{{n/a}}|{{MKD}}
+|65°20′N|21°30′E|[[Piteå]]|{{n/a}}|{{SWE}}
+|63°06′N|21°37′E|[[Vaasa]]|{{n/a}}|{{FIN}}
+|65°50′N|21°43′E|[[Boden, Sweden|Boden]]|{{n/a}}|{{SWE}}
+|65°35′N|22°09′E|[[Luleå]]|{{n/a}}|{{SWE}}
+|60°27′N|22°16′E|[[Turku]]|{{n/a}}|{{FIN}}
+|40°39′N|22°54′E|[[Thessaloniki]]|{{n/a}}|{{GRC}}
+|42°42′N|23°20′E|[[Sofia]]|{{n/a}}|{{BGR}}
+|46°46′N|23°35′E|[[Cluj-Napoca]]|{{n/a}}|{{ROM}}
+|38°28′N|23°36′E|[[Halkida]]|{{n/a}}|{{GRC}}
+|70°40′N|23°41′E|[[Hammerfest (town)|Hammerfest]]|{{n/a}}|{{NOR}}
+|37°58′N|23°43′E|[[Athens|Athena]]|{{n/a}}|{{GRC}}
+|61°30′N|23°46′E|[[Tampere]]|{{n/a}}|{{FIN}}
+|44°20′N|23°49′E|[[Craiova]]|{{n/a}}|{{ROM}}
+|49°51′N|24°01′E|[[Lviv]]|{{n/a}}|{{UKR}}
+|56°57′N|24°06′E|[[Riga]]|{{n/a}}|{{LAT}}
+|65°50′N|24°08′E|[[Haparanda]]|{{n/a}}|{{SWE}}
+|65°51′N|24°09′E|[[Tornio]]|{{n/a}}|{{FIN}}
+|65°44′N|24°34′E|[[Kemi]]|{{n/a}}|{{FIN}}
+|60°12′N|24°39′E|[[Espoo]]|{{n/a}}|{{FIN}}
+|59°26′N|24°45′E|[[Tallinn]]|{{n/a}}|{{EST}}
+|28°45′S|24°46′E|[[Kimberley, Northern Cape|Kimberley]]|[[Northern Cape]]|{{ZAF}}
+|60°10′N|24°56′E|[[Helsinki]]|{{n/a}}|{{FIN}}
+|60°18′N|25°02′E|[[Vantaa]]|{{n/a}}|{{FIN}}
+|35°20′N|25°08′E|[[Heraklion]]|{{n/a}}|{{GRC}}
+|54°41′N|25°17′E|[[Vilnius]]|{{n/a}}|{{LTU}}
+|65°01′N|25°28′E|[[Oulu]]|{{n/a}}|{{FIN}}
+|33°57′S|25°36′E|[[Port Elizabeth]]|[[Eastern Cape]]|{{ZAF}}
+|25°51′S|25°38′E|[[Mafikeng]]|[[North West (South African province)|North West]]|{{ZAF}}
+|60°59′N|25°39′E|[[Lahti]]|{{n/a}}|{{FIN}}
+|66°30′N|25°44′E|[[Rovaniemi]]|{{n/a}}|{{FIN}}
+|62°15′N|25°45′E|[[Jyväskylä]]|{{n/a}}|{{FIN}}
+|17°51′S|25°52′E|[[Livingstone, Zambia|Livingstone]]|{{n/a}}|{{ZMB}}
+|24°39′S|25°55′E|[[Gaborone]]|{{n/a}}|{{BOT}}
+|44°26′N|26°06′E|[[Bucharest]]|{{n/a}}|{{ROM}}
+|29°07′S|26°13′E|[[Bloemfontein]]|[[Free State (South African province)|Free State]]|{{ZAF}}
+|58°23′N|26°43′E|[[Tartu]]|{{n/a}}|{{EST}}
+|65°22′N|27°00′E|[[Pudasjärvi]]|{{n/a}}|{{FIN}}
+|69°54′N|27°01′E|[[Utsjoki]]|{{n/a}}|{{FIN}}
+|38°26′N|27°09′E|[[İzmir]]|{{n/a}}|{{TUR}}
+|66°43′N|27°26′E|[[Kemijärvi]]|{{n/a}}|{{FIN}}
+|32°51′S|27°26′E|[[Bhisho]]|[[Eastern Cape]]|{{ZAF}}
+|11°40′S|27°28′E|[[Lubumbashi]]|{{n/a}}|{{COD}}
+|29°19′S|27°29′E|[[Maseru]]|{{n/a}}|{{LES}}
+|21°10′S|27°31′E|[[Francistown]]|{{n/a}}|{{BOT}}
+|53°54′N|27°34′E|[[Minsk]]|{{n/a}}|{{BLR}}
+|62°54′N|27°41′E|[[Kuopio]]|{{n/a}}|{{FIN}}
+|70°05′N|27°53′E|[[Nuorgam]]|[[Lapland, Finland|Lapland]]|{{FIN}}
+|26°12′S|28°03′E|[[Johannesburg]]|[[Gauteng]]|{{ZAF}}
+|25°45′S|28°11′E|[[Pretoria]]|[[Gauteng]]|{{ZAF}}
+|15°25′S|28°17′E|[[Lusaka]]|{{n/a}}|{{ZMB}}
+|20°10′S|28°35′E|[[Bulawayo]]|{{n/a}}|{{ZIM}}
+|12°58′S|28°38′E|[[Ndola]]|{{n/a}}|{{ZMB}}
+|47°00′N|28°55′E|[[Chişinău]]|{{n/a}}|{{MDA}}
+|41°01′N|28°57′E|[[Istanbul]]|{{n/a}}|{{TUR}}
+|40°11′N|29°03′E|[[Bursa, Turkey|Bursa]]|{{n/a}}|{{TUR}}
+|65°58′N|29°11′E|[[Kuusamo]]|{{n/a}}|{{FIN}}
+|3°23′S|29°22′E|[[Bujumbura]]|{{n/a}}|{{BDI}}
+|23°54′S|29°27′E|[[Polokwane]]|[[Limpopo]]|{{ZAF}}
+|46°51′N|29°38′E|[[Tiraspol]]|{{flag|Transnistria}}|{{MDA}}
+|70°05′N|29°44′E|[[Vadsø (town)|Vadsø]]|{{n/a}}|{{NOR}}
+|31°12′N|29°55′E|[[Alexandria]]|{{n/a}}|{{EGY}}
+|1°57′S|30°04′E|[[Kigali]]|{{n/a}}|{{RWA}}
+|59°57′N|30°18′E|[[Saint Petersburg]]|{{n/a}}|{{RUS}}
+|29°37′S|30°23′E|[[Pietermaritzburg]]|[[KwaZulu-Natal]]|{{ZAF}}
+|39°47′N|30°31′E|[[Eskisehir]]|{{n/a}}|{{TUR}}
+|50°27′N|30°31′E|[[Kiev]]|{{n/a}}|{{UKR}}
+|46°28′N|30°44′E|[[Odessa]]|{{n/a}}|{{UKR}}
+|25°28′S|30°59′E|[[Nelspruit]]|[[Mpumalanga]]|{{ZAF}}
+|17°52′S|31°02′E|[[Harare]]|{{n/a}}|{{ZIM}}
+|29°53′S|31°03′E|[[Durban]]|[[KwaZulu-Natal]]|{{ZAF}}
+|26°19′S|31°08′E|[[Mbabane]]|{{n/a}}|{{SWZ}}
+|26°25′S|31°10′E|[[Lobamba]]|{{n/a}}|{{SWZ}}
+|30°03′N|31°14′E|[[Cairo]]|{{n/a}}|{{EGY}}
+|26°29′S|31°22′E|[[Manzini, Swaziland|Manzini]]|{{n/a}}|{{SWZ}}
+|4°51′N|31°36′E|[[Juba]]|{{n/a}}|{{SSD}}
+|31°15′N|32°17′E|[[Port Said]]|{{n/a}}|{{EGY}}
+|0°03′N|32°28′E|[[Entebbe]]|{{n/a}}|{{UGA}}
+|37°52′N|32°29′E|[[Konya]]|{{n/a}}|{{TUR}}
+|15°39′N|32°29′E|[[Omdurman]]|{{n/a}}|{{SDN}}
+|15°38′N|32°32′E|[[Khartoum]]|{{n/a}}|{{SDN}}
+|29°58′N|32°33′E|[[Suez]]|{{n/a}}|{{EGY}}
+|0°19′N|32°35′E|[[Kampala]]|{{n/a}}|{{UGA}}
+|25°58′S|32°35′E|[[Maputo]]|{{n/a}}|{{MOZ}}
+|25°41′N|32°39′E|[[Luxor]]|{{n/a}}|{{EGY}}
+|39°52′N|32°52′E|[[Ankara]]|{{n/a}}|{{TUR}}
+|2°31′S|32°54′E|[[Mwanza]]|{{n/a}}|{{TZA}}
+|68°58′N|33°05′E|[[Murmansk]]|[[Murmansk Oblast]]|{{RUS}}
+|35°10′N|33°22′E|[[Nicosia]]|{{n/a}}|{{CYP}}
+|13°59′S|33°47′E|[[Lilongwe]]|{{n/a}}|{{MWI}} 
+|44°57′N|34°06′E|[[Simferopol]]|{{flag|Crimea}}|{{UKR}}
+|31°31′N|34°27′E|[[Gaza City|Gaza]]|[[Gaza Strip]]|{{PLE}}
+|36°48′N|34°38′E|[[Mersin]]|{{n/a}}|{{TUR}}
+|32°04′N|34°47′E|[[Tel Aviv]]|{{n/a}}|{{ISR}}
+|29°33′N|34°57′E|[[Eilat]]|{{n/a}}|{{ISR}}
+|15°47′S|35°00′E|[[Blantyre]]|{{n/a}}|{{MWI}} 
+|31°47′N|35°13′E|[[Jerusalem]]|{{n/a}}|{{ISR}}
+|37°00′N|35°19′E|[[Adana]]|{{n/a}}|{{TUR}}
+|33°53′N|35°31′E|[[Beirut]]|{{n/a}}|{{LBN}}
+|6°10′S|35°45′E|[[Dodoma]]|{{n/a}}|{{TZA}}
+|35°31′N|35°47′E|[[Latakia]]|{{n/a}}|{{SYR}}
+|31°56′N|35°56′E|[[Amman]]|{{n/a}}|{{JOR}}
+|50°00′N|36°14′E|[[Kharkiv]]|{{n/a}}|{{UKR}}
+|33°31′N|36°18′E|[[Damascus]]|{{n/a}}|{{SYR}}
+|1°17′S|36°49′E|[[Nairobi]]|{{n/a}}|{{KEN}}
+|37°04′N|37°23′E|[[Gaziantep]]|{{n/a}}|{{TUR}}
+|55°45′N|37°37′E|[[Moscow]]|{{n/a}}|{{RUS}}
+|9°02′N|38°44′E|[[Addis Ababa]]|{{n/a}}|{{ETH}}
+|15°20′N|38°56′E|[[Asmara]]|{{n/a}}|{{flag|Eritrea}}
+|45°02′N|38°58′E|[[Krasnodar]]|[[Krasnodar Krai]]|{{RUS}}
+|21°33′N|39°10′E|[[Jeddah]]|{{n/a}}|{{SAU}}
+|6°10′S|39°12′E|[[Zanzibar City]]|{{n/a}}|{{TZA}}
+|51°40′N|39°13′E|[[Voronezh]]|[[Voronezh Oblast]]|{{RUS}}
+|6°48′S|39°17′E|[[Dar es Salaam]]|{{n/a}}|{{TZA}}
+|24°28′N|39°36′E|[[Medina]]|{{n/a}}|{{SAU}}
+|4°03′S|39°40′E|[[Mombasa]]|{{n/a}}|{{KEN}}
+|47°14′N|39°42′E|[[Rostov-on-Don]]|[[Rostov Oblast]]|{{RUS}}
+|43°35′N|39°43′E|[[Sochi]]|[[Krasnodar Krai]]|{{RUS}}
+|21°25′N|39°49′E|[[Mecca]]|{{n/a}}|{{SAU}}
+|57°37′N|39°51′E|[[Yaroslavl]]|[[Yaroslavl Oblast]]|{{RUS}}
+|64°32′N|40°32′E|[[Arkhangelsk]]|[[Arkhangelsk Oblast]]|{{RUS}}
+|43°00′N|41°01′E|[[Sukhumi]]|{{flag|Abkhazia}}|{{GEO}}
+|0°21′S|42°33′E|[[Kismayo]]|{{n/a}}|{{SOM}}
+|36°20′N|43°08′E|[[Mosul]]|{{n/a}}|{{IRQ}}
+|11°35′N|43°09′E|[[Djibouti, Djibouti|Djibouti]]|{{n/a}}|{{DJI}}
+|11°45′S|43°12′E|[[Moroni, Comoros|Moroni]]|{{n/a}}|{{COM}}
+|42°14′N|43°58′E|[[Tskhinvali]]|{{flag|South Ossetia}}|{{GEO}}
+|56°20′N|44°00′E|[[Nizhny Novgorod]]|[[Nizhny Novgorod Oblast]]|{{RUS}}
+|36°11′N|44°01′E|[[Arbil]]|{{flag|Iraqi Kurdistan}}|{{IRQ}}
+|15°21′N|44°12′E|[[Sana'a]]|{{n/a}}|{{YEM}}
+|35°28′N|44°19′E|[[Kirkuk]]|{{n/a}}|{{IRQ}}
+|33°20′N|44°26′E|[[Baghdad]]|{{n/a}}|{{IRQ}}
+|10°00′N|44°30′E|[[Hargeisa]]|{{flag|Somaliland}}|{{SOM}}
+|48°42′N|44°31′E|[[Volgograd]]|[[Volgograd Oblast]]|{{RUS}}
+|40°11′N|44°31′E|[[Yerevan]]|{{n/a}}|{{ARM}}
+|41°43′N|44°47′E|[[Tbilisi]]|{{n/a}}|{{GEO}}
+|12°47′S|45°14′E|[[Mamoudzou]]|[[Mayotte]]|{{FRA}}
+|2°02′N|45°21′E|[[Mogadishu]]|{{n/a}}|{{SOM}}
+|51°32′N|46°01′E|[[Saratov]]|[[Saratov Oblast]]|{{RUS}}
+|38°04′N|46°18′E|[[Tabriz]]|{{n/a}}|{{IRN}}
+|24°38′N|46°43′E|[[Riyadh]]|{{n/a}}|{{SAU}}
+|39°49′N|46°45′E|[[Stepanakert]]|{{flag|Nagorno-Karabakh Republic}}|{{AZE}}
+|18°56′S|47°31′E|[[Antananarivo]]|{{n/a}}|{{MAD}}
+|30°30′N|47°49′E|[[Basra]]|{{n/a}}|{{IRQ}}
+|29°22′N|47°59′E|[[Kuwait City]]|{{n/a}}|{{KWT}}
+|55°47′N|49°08′E|[[Kazan]]|[[Republic of Tatarstan]]|{{RUS}}
+|53°31′N|49°25′E|[[Tolyatti]]|[[Samara Oblast]]|{{RUS}}
+|40°24′N|49°53′E|[[Baku]]|{{n/a}}|{{AZE}}
+|53°12′N|50°08′E|[[Samara, Russia|Samara]]|[[Samara Oblast]]|{{RUS}}
+|26°17′N|50°12′E|[[Dammam]]|{{n/a}}|{{SAU}}
+|26°13′N|50°35′E|[[Manama]]|{{n/a}}|{{BHR}}
+|35°42′N|51°25′E|[[Tehran]]|{{n/a}}|{{IRN}}
+|25°17′N|51°32′E|[[Doha]]|{{n/a}}|{{QAT}}
+|32°38′N|51°39′E|[[Isfahan (city)|Isfahan]]|{{n/a}}|{{IRN}}
+|56°50′N|53°11′E|[[Izhevsk]]|[[Udmurt Republic]]|{{RUS}}
+|17°01′N|54°05′E|[[Salalah]]|{{n/a}}|{{OMN}}
+|24°28′N|54°22′E|[[Abu Dhabi]]|{{n/a}}|{{ARE}}
+|25°15′N|55°18′E|[[Dubai]]|{{n/a}}|{{ARE}}
+|20°53′S|55°27′E|[[Saint-Denis, Réunion|Saint-Denis]]|[[Réunion]]|{{FRA}}
+|4°37′S|55°27′E|[[Victoria, Seychelles|Victoria]]|{{n/a}}|{{SEY}}
+|54°45′N|55°58′E|[[Ufa]]|[[Republic of Bashkortostan]]|{{RUS}}
+|58°00′N|56°19′E|[[Perm]]|[[Perm Krai]]|{{RUS}}
+|20°10′S|57°30′E|[[Port Louis]]|{{n/a}}|{{MUS}}
+|37°56′N|58°22′E|[[Ashgabat]]|{{n/a}}|{{TKM}}
+|23°37′N|58°36′E|[[Muscat, Oman|Muscat]]|{{n/a}}|{{OMN}}
+|42°28′N|59°36′E|[[Nukus]]|{{flag|Karakalpakstan}}|{{UZB}}
+|36°18′N|59°36′E|[[Mashhad]]|{{n/a}}|{{IRN}}
+|56°50′N|60°35′E|[[Yekaterinburg]]|[[Sverdlovsk Oblast]]|{{RUS}}
+|55°09′N|61°23′E|[[Chelyabinsk]]|[[Chelyabinsk Oblast]]|{{RUS}}
+|31°37′N|65°43′E|[[Kandahar]]|{{n/a}}|{{AFG}}
+|24°52′N|67°01′E|[[Karachi]]|[[Sindh]]|{{PAK}}
+|25°23′N|68°22′E|[[Hyderabad, Sindh|Hyderabad]]|[[Sindh]]|{{PAK}}
+|38°32′N|68°47′E|[[Dushanbe]]|{{n/a}}|{{TJK}}
+|34°32′N|69°10′E|[[Kabul]]|{{n/a}}|{{AFG}}
+|41°16′N|69°13′E|[[Tashkent]]|{{n/a}}|{{UZB}}
+|51°10′N|71°26′E|[[Astana]]|{{n/a}}|{{KAZ}}
+|30°12′N|71°28′E|[[Multan]]|[[Punjab (Pakistan)|Punjab]]|{{PAK}}
+|34°01′N|71°35′E|[[Peshawar]]|[[Khyber Pakhtunkhwa]]|{{PAK}}
+|41°00′N|71°40′E|[[Namangan]]|{{n/a}}|{{UZB}}
+|23°02′N|72°35′E|[[Ahmedabad]]|[[Gujarat]]|{{IND}} 
+|18°59′N|72°50′E|[[Mumbai|Mumbai (Bombay)]]|[[Maharashtra]]|{{IND}}
+|21°10′N|72°50′E|[[Surat, Gujarat|Surat]]|[[Gujarat]]|{{IND}}
+|33°36′N|73°02′E|[[Rawalpindi]]|[[Punjab (Pakistan)|Punjab]]|{{PAK}}
+|33°43′N|73°04′E|[[Islamabad]]|[[Islamabad Capital Territory]]|{{PAK}}
+|31°25′N|73°05′E|[[Faisalabad]]|[[Punjab (Pakistan)|Punjab]]|{{PAK}}
+|54°59′N|73°22′E|[[Omsk]]|[[Omsk Oblast]]|{{RUS}}
+|4°11′N|73°31′E|[[Malé]]|{{n/a}}|{{MDV}}
+|18°31′N|73°51′E|[[Pune]]|[[Maharashtra]]|{{IND}}
+|31°33′N|74°21′E|[[Lahore]]|[[Punjab, Pakistan|Punjab]]|{{PAK}}
+|42°52′N|74°37′E|[[Bishkek]]|{{n/a}}|{{KGZ}}
+|34°05′N|74°47′E|[[Srinagar]]|[[Jammu and Kashmir]]|{{IND}}
+|31°38′N|74°52′E|[[Amritsar]]|[[Punjab (India)|Punjab]]|{{IND}}
+|26°56′N|75°49′E|[[Jaipur]]|[[Rajasthan]]|{{IND}}
+|30°55′N|75°51′E|[[Ludhiana]]|[[Punjab (India)|Punjab]]|{{IND}}
+|9°58′N|76°17′E|[[Kochi]]|[[Kerala]]|{{IND}}
+|30°45′N|76°47′E|[[Chandigarh]]|{{n/a}}|{{IND}}
+|43°17′N|76°54′E|[[Almaty]]|{{n/a}}|{{KAZ}}
+|8°29′N|76°57′E|[[Trivandrum]]|[[Kerala]]|{{IND}}
+|31°06′N|77°10′E|[[Shimla]]|[[Himachal Pradesh]]|{{IND}}
+|28°37′N|77°13′E|[[New Delhi]]|[[Delhi]]|{{IND}}
+|12°58′N|77°34′E|[[Bangalore]]|[[Karnataka]]|{{IND}}
+|27°11′N|78°01′E|[[Agra]]|[[Uttar Pradesh]]|{{IND}}
+|17°22′N|78°29′E|[[Hyderabad, India|Hyderabad]]|[[Andhra Pradesh]]|{{IND}}
+|21°08′N|79°05′E|[[Nagpur]]|[[Maharashtra]]|{{IND}}
+|25°19′N|79°38′E|[[Kulpahar]]|[[Uttar Pradesh]]|{{IND}}
+|6°56′N|79°51′E|[[Colombo]]|{{n/a}}|{{SRI}}
+|6°55′N|79°53′E|[[Sri Jayawardenapura-Kotte]]|{{n/a}}|{{SRI}}
+|13°05′N|80°16′E|[[Chennai|Chennai (Madras)]]|[[Tamil Nadu]]|{{IND}}
+|26°28′N|80°20′E|[[Kanpur]]|[[Uttar Pradesh]]|{{IND}}
+|7°18′N|80°38′E|[[Kandy]]|{{n/a}}|{{SRI}}
+|26°51′N|80°57′E |[[Lucknow]]|[[Uttar Pradesh]]|{{IND}}
+|31°4′ N|81°18′E |Mount Kailash|[[Tibet]]|{{PRC}} 
+|7°43′N|81°42′E|[[Batticaloa]]|{{n/a}}|{{SRI}}
+|55°01′N|82°56′E|[[Novosibirsk]]|[[Novosibirsk Oblast]]|{{RUS}}
+|17°41′N|83°13′E|[[Visakhapatnam]]|[[Andhra Pradesh]]|{{IND}}
+|25°37′N|85°09′E|[[Patna]]|[[Bihar]]|{{IND}} 
+|27°42′N|85°20′E|[[Kathmandu]]|{{n/a}}|{{NEP}}
+|43°50′N|87°36′E|[[Ürümqi]]|[[Xinjiang]]|{{PRC}}
+|69°20′N|88°13′E|[[Norilsk]]|[[Krasnoyarsk Krai]]|{{RUS}}
+|22°34′N|88°22′E|[[Kolkata|Kolkata (Calcutta)]]|[[West Bengal]]|{{IND}}
+|26°43′N|88°26′E|[[Siliguri]]|[[West Bengal]]|{{IND}}
+|27°20′N|88°37′E|[[Gangtok]]|[[Sikkim]]|{{IND}}
+|29°16′N|88°53′E|[[Shigatse]]|[[Tibet]]|{{PRC}}
+|27°28′N|89°39′E|[[Thimphu]]|{{n/a}}|{{BHU}}
+|23°42′N|90°23′E|[[Dhaka]]|{{n/a}}|{{BGD}}
+|29°39′N|91°06′E|[[Lhasa]]|[[Tibet Autonomous Region|Tibet]]|{{PRC}}
+|23°50′N|91°16′E|[[Agartala]]|[[Tripura]]|{{IND}}
+|26°11′N|91°44′E|[[Guwahati]]|[[Assam]]|{{IND}}
+|22°22′N|91°48′E|[[Chittagong]]|{{n/a}}|{{BGD}}
+|25°34′N|91°53′E|[[Shillong]]|[[Meghalaya]]|{{IND}}
+|11°40′N|92°46′E|[[Port Blair]]|[[Andaman and Nicobar Islands]]|{{IND}}
+|26°38′N|92°48′E|[[Tezpur]]|[[Assam]]|{{IND}}
+|56°01′N|93°04′E|[[Krasnoyarsk]]|[[Krasnoyarsk Krai]]|{{RUS}}
+|27°29′N|95°00′E|[[Dibrugarh]]|[[Assam]]|{{IND}}
+|5°33′N|95°19′E|[[Banda Aceh]]|[[Aceh]]|{{IDN}}
+|19°45′N|96°06′E|[[Naypyidaw]]|{{n/a}}|{{MYA}}
+|16°48′N|96°09′E|[[Yangon]]|{{n/a}}|{{MYA}}
+|7°53′N|98°24′E|[[Phuket (city)|Phuket]]|{{n/a}}|{{THA}}
+|3°35′N|98°40′E|[[Medan]]|{{n/a}}|{{IDN}}
+|18°48′N|99°00′E|[[Chiang Mai]]|{{n/a}}|{{THA}}
+|9°08′N|99°20′E|[[Surat Thani]]|{{n/a}}|{{THA}}
+|19°55′N|99°50′E|[[Chiang Rai]]|{{n/a}}|{{THA}}
+|5°25′N|100°19′E|[[George Town, Penang|George Town]]|{{flag|Penang}}|{{MAS}}
+|0°57′S|100°21′E|[[Padang, Indonesia|Padang]]|{{n/a}}|{{IDN}}
+|6°07′N|100°22′E|[[Alor Setar]]|{{flag|Kedah}}|{{MAS}}
+|13°45′N|100°28′E|[[Bangkok]]|{{n/a}}|{{THA}}
+|7°01′N|100°28′E|[[Hat Yai]]|{{n/a}}|{{THA}}
+|14°21′N|100°34′E|[[Ayutthaya (city)|Ayutthaya]]|{{n/a}}|{{THA}}
+|12°56′N|100°53′E|[[Pattaya]]|{{n/a}}|{{THA}}
+|4°36′N|101°04′E|[[Ipoh, Malaysia|Ipoh]]|{{flag|Perak}}|{{MAS}}
+|0°32′N|101°27′E|[[Pekanbaru]]|{{n/a}}|{{IDN}}
+|56°07′N|101°36′E|[[Bratsk]]|[[Irkutsk Oblast]]|{{RUS}}
+|3°09′N|101°42′E|[[Kuala Lumpur]]|{{flagicon|Federal Territory (Malaysia)}} [[Federal Territory (Malaysia)|Federal Territory]]|{{MAS}}
+|36°38′N|101°46′E|[[Xining]]|[[Qinghai]]|{{PRC}}
+|14°59′N|102°06′E|[[Nakhon Ratchasima]]|{{n/a}}|{{THA}} 
+|6°08′N|102°15′E|[[Kota Bharu]]|{{flag|Kelantan}}|{{MAS}}
+|2°12′N|102°15′E|[[Malacca Town]]|{{flag|Malacca}}|{{MAS}}
+|17°58′N|102°36′E|[[Vientiane]]|{{n/a}}|{{LAO}}
+|25°04′N|102°41′E|[[Kunming]]|[[Yunnan]]|{{PRC}}
+|17°25′N|102°45′E|[[Udon Thani]]|{{n/a}}|{{THA}}
+|16°26′N|102°50′E|[[Khon Kaen]]|{{n/a}}|{{THA}}
+|1°29′N|103°44′E|[[Johor Bahru]]|{{flag|Johor}}|{{MAS}}
+|36°02′N|103°48′E|[[Lanzhou]]|[[Gansu]]|{{PRC}}
+|1°17′N|103°50′E|[[Singapore]]|{{n/a}}|{{SIN}}
+|13°22′N|103°52′E|[[Siem Reap]]|{{n/a}}|{{KHM}}
+|30°40′N|104°04′E|[[Chengdu]]|[[Sichuan]]|{{PRC}}
+|52°19′N|104°18′E|[[Irkutsk]]|[[Irkutsk Oblast]]|{{RUS}}
+|2°59′S|104°45′E|[[Palembang]]|{{n/a}}|{{IDN}}
+|11°33′N|104°55′E|[[Phnom Penh]]|{{n/a}}|{{KHM}}
+|21°02′N|105°51′E|[[Hanoi]]|{{n/a}}|{{VIE}}
+|29°34′N|106°34′E|[[Chongqing]]|{{n/a}}|{{PRC}}
+|10°46′N|106°41′E|[[Ho Chi Minh City]]|{{n/a}}|{{VIE}}
+|20°51′N|106°41′E|[[Hai Phong]]|{{n/a}}|{{VIE}}
+|6°12′S|106°48′E|[[Jakarta]]|{{n/a}}|{{IDN}}
+|6°36′S|106°48′E|[[Bogor]]|{{n/a}}|{{IDN}}
+|47°55′N|106°55′E|[[Ulan Bator]]|{{n/a}}|{{MNG}}
+|16°28′N|107°35′E|[[Huế]]|{{n/a}}|{{VIE}}
+|6°55′S|107°37′E|[[Bandung]]|{{n/a}}|{{IDN}}
+|16°04′N|108°14′E|[[Da Nang]]|{{n/a}}|{{VIE}}
+|22°49′N|108°19′E|[[Nanning]]|[[Guangxi]]|{{PRC}}
+|34°16′N|108°54′E|[[Xi'an]]|[[Shaanxi]]|{{PRC}}
+|0°01′S|109°20′E|[[Pontianak, Indonesia|Pontianak]]|{{n/a}}|{{IDN}}
+|1°34′N|110°21′E|[[Kuching]]|{{flag|Sarawak}}|{{MAS}}
+|7°48′S|110°22′E|[[Yogyakarta (city)|Yogyakarta]]|{{n/a}}|{{IDN}}
+|6°58′S|110°25′E|[[Semarang]]|{{n/a}}|{{IDN}}
+|37°52′N|112°34′E|[[Taiyuan]]|[[Shanxi]]|{{PRC}}
+|7°59′S|112°37′E|[[Malang]]|{{n/a}}|{{IDN}}
+|7°16′S|112°45′E|[[Surabaya]]|{{n/a}}|{{IDN}}
+|23°08′N|113°16′E|[[Guangzhou]]|[[Guangdong]]|{{PRC}}
+|22°10′N|113°33′E|{{MAC}}|{{n/a}}|{{PRC}}
+|34°46′N|113°39′E|[[Zhengzhou]]|[[Henan]]|{{PRC}}
+|23°02′N|113°43′E|[[Dongguan]]|[[Guangdong]]|{{PRC}}
+|4°24′N|114°00′E|[[Miri]]|{{flag|Sarawak}}|{{MAS}}
+|22°33′N|114°06′E|[[Shenzhen]]|[[Guangdong]]|{{PRC}}
+|22°17′N|114°10′E|{{HKG}}|{{n/a}}|{{PRC}}
+|30°35′N|114°17′E|[[Wuhan]]|[[Hubei]]|{{PRC}}
+|36°36′N|114°29′E|[[Handan]]|[[Hebei]]|{{PRC}}
+|38°03′N|114°30′E|[[Shijiazhuang]]|[[Hebei]]|{{PRC}}
+|4°53′N|114°57′E|[[Bandar Seri Begawan]]|{{n/a}}|{{BRN}}
+|8°39′S|115°13′E|[[Denpasar]]|[[Bali]]|{{IDN}}
+|32°32′S|115°43′E|[[Mandurah]]|{{flag|Western Australia}}|{{AUS}}
+|31°57′S|115°52′E|[[Perth, Western Australia|Perth]]|{{flag|Western Australia}}|{{AUS}}
+|5°58′N|116°06′E|[[Kota Kinabalu]]|{{flag|Sabah}}|{{MAS}}
+|39°55′N|116°24′E|[[Beijing]]|{{n/a}}|{{PRC}}
+|1°16′S|116°50′E|[[Balikpapan]]|{{n/a}}|{{IDN}}
+|36°40′N|116°59′E|[[Jinan]]|[[Shandong]]|{{PRC}}
+|39°08′N|117°11′E|[[Tianjin]]|{{n/a}}|{{PRC}}
+|20°19′S|118°36′E|[[Port Hedland, Western Australia|Port Hedland]]|{{flag|Western Australia}}|{{AUS}}
+|32°03′N|118°46′E|[[Nanjing]]|[[Jiangsu]]|{{PRC}}
+|5°08′S|119°25′E|[[Makassar]]|{{n/a}}|{{IDN}}
+|30°15′N|120°10′E|[[Hangzhou]]|[[Zhejiang]]|{{PRC}}
+|22°59′N|120°11′E|[[Tainan]]|{{n/a}}|{{ROC-TW}}
+|22°38′N|120°16′E|[[Kaohsiung|Gaoxiong]]|{{n/a}}|{{ROC-TW}}
+|36°04′N|120°23′E|[[Qingdao]]|[[Shandong]]|{{PRC}}
+|24°09′N|120°40′E|[[Taichung|Taizhong]]|{{n/a}}|{{ROC-TW}}
+|14°35′N|120°58′E|[[Manila]]|{{n/a}}|{{PHL}}
+|14°38′N|121°02′E|[[Quezon City]]|{{n/a}}|{{PHL}}
+|14°33′N|121°02′E|[[Makati]]|{{n/a}}|{{PHL}}
+|31°12′N|121°30′E|[[Shanghai]]|{{n/a}}|{{PRC}}
+|25°02′N|121°38′E|[[Taipei|Taibei]]|{{n/a}}|{{ROC-TW}}
+|38°55′N|121°38′E|[[Dalian]]|[[Liaoning]]|{{PRC}}
+|6°54′N|122°04′E|[[Zamboanga City]]|{{n/a}}|{{PHL}}
+|10°43′N|122°34′E|[[Iloilo City]]|{{n/a}}|{{PHL}}
+|9°39′N|123°51′E|[[Tagbilaran]]|{{n/a}}|{{PHL}}
+|41°44′N|123°53′E|[[Shenyang]]|[[Liaoning]]|{{PRC}}
+|10°17′N|123°54′E|[[Cebu City]]|{{n/a}}|{{PHL}}
+|43°54′N|125°12′E|[[Changchun]]|[[Jilin]]|{{PRC}}
+|8°33′S|125°35′E|[[Dili]]|{{n/a}}|{{TLS}}
+|7°04′N|125°36′E|[[Davao City]]|{{n/a}}|{{PHL}}
+|39°01′N|125°44′E|[[Pyongyang]]|{{n/a}}|{{PRK}}
+|37°58′N|126°33′E|[[Kaesong]]|{{n/a}}|{{PRK}}
+|45°45′N|126°38′E|[[Harbin]]|[[Heilongjiang]]|{{PRC}}
+|37°29′N|126°38′E|[[Incheon]]|{{n/a}}|{{KOR}}
+|37°34′N|126°59′E|[[Seoul]]|{{n/a}}|{{KOR}}
+|39°09′N|127°27′E|[[Wonsan]]|{{n/a}}|{{PRK}}
+|26°13′N|127°41′E|[[Naha, Okinawa|Naha]]|[[Okinawa]]|{{JPN}}
+|3°42′S|128°10′E|[[Ambon, Maluku]]|{{n/a}}|{{IDN}}
+|35°52′N|128°36′E|[[Daegu]]|{{n/a}}|{{KOR}}
+|35°11′N|129°05′E|[[Busan]]|{{n/a}}|{{KOR}} 
+|62°02′N|129°44′E|[[Yakutsk]]|[[Sakha Republic]]|{{RUS}}
+|41°48′N|129°47′E|[[Chongjin]]|{{n/a}}|{{PRK}}
+|33°35′N|130°24′E|[[Fukuoka]]|[[Fukuoka Prefecture|Fukuoka]]|{{JPN}}
+|12°27′S|130°50′E|[[Darwin, Northern Territory|Darwin]]|{{flag|Northern Territory}}|{{AUS}}
+|43°08′N|131°54′E|[[Vladivostok]]|[[Primorsky Krai]]|{{RUS}}
+|34°23′N|132°27′E|[[Hiroshima]]|[[Hiroshima Prefecture|Hiroshima]]|{{JPN}}
+|67°33′N|133°23′E|[[Verkhoyansk]]|[[Sakha Republic]]|{{RUS}}
+|7°22′N|134°29′E|[[Koror]]|{{n/a}}|{{PLW}}
+|7°29′N|134°36′E|[[Melekeok]]|{{n/a}}|{{PLW}}
+|34°41′N|135°12′E|[[Kobe|Kōbe]]|[[Hyogo]]|{{JPN}}
+|34°42′N|135°30′E|[[Osaka]]|[[Osaka Prefecture|Osaka]]|{{JPN}}
+|35°01′N|135°46′E|[[Kyoto]]|[[Kyoto Prefecture|Kyoto]]|{{JPN}}
+|35°11′N|136°54′E|[[Nagoya]]|[[Aichi]]|{{JPN}}
+|34°56′S|138°36′E|[[Adelaide]]|{{flag|South Australia}}|{{AUS}}
+|35°27′N|139°38′E|[[Yokohama]]|[[Kanagawa]]|{{JPN}}
+|35°41′N|139°42′E|[[Tokyo]]|[[Tokyo]]|{{JPN}}
+|35°31′N|139°42′E|[[Kawasaki, Kanagawa|Kawasaki]]|[[Kanagawa]]|{{JPN}}
+|2°32′S|140°43′E|[[Jayapura]]|{{n/a}}|{{IDN}}
+|38°16′N|140°52′E|[[Sendai]]|[[Miyagi Prefecture|Miyagi]]|{{JPN}}
+|43°04′N|141°21′E|[[Sapporo]]|[[Hokkaido]]|{{JPN}}
+|38°09′S|144°21′E|[[Geelong]]|{{flag|Victoria}} |{{AUS}}
+|13°29′N|144°45′E|[[Hagåtña, Guam|Hagåtña]]|{{flag|Guam}}|{{USA}}
+|13°31′N|144°50′E|[[Dededo, Guam|Dededo]]|{{flag|Guam}}|{{USA}}
+|37°49′S|144°58′E|[[Melbourne]]|{{flagicon|Victoria}} [[Victoria (Australia)|Victoria]]|{{AUS}}
+|43°20′N|145°35′E|[[Nemuro, Hokkaido|Nemuro]]|[[Hokkaido]]|{{JPN}}
+|15°11′N|145°45′E|[[Saipan]]|{{flag|Northern Mariana Islands}}|{{USA}}
+|16°56′S|145°47′E|[[Cairns]]|{{flag|Queensland}}|{{AUS}}
+|19°15′S|146°49′E|[[Townsville]]|{{flag|Queensland}}|{{AUS}}
+|9°31′S|147°13′E|[[Port Moresby]]|{{n/a}}|{{PNG}}
+|42°53′S|147°20′E|[[Hobart]]|{{flag|Tasmania}}|{{AUS}}
+|35°18′S|149°07′E|[[Canberra]]|{{flag|Australian Capital Territory}}|{{AUS}}
+|23°23′S|150°31′E|[[Rockhampton]]|{{flag|Queensland}}|{{AUS}}
+|59°34′N|150°48′E|[[Magadan]]|[[Magadan Oblast]]|{{RUS}}
+|34°26′S|150°53′E|[[Wollongong]]|{{flag|New South Wales}}|{{AUS}}
+|33°52′S|151°13′E|[[Sydney]]|{{flag|New South Wales}}|{{AUS}}
+|32°55′S|151°45′E|[[Newcastle, New South Wales|Newcastle]]|{{flag|New South Wales}}|{{AUS}} 
+|7°27′N|151°51′E|[[Weno]]|{{n/a}}|{{FSM}}
+|27°28′S|153°02′E|[[Brisbane]]|{{flag|Queensland}}|{{AUS}}
+|28°01′S|153°24′E|[[Gold Coast, Queensland|Gold Coast]]|{{flag|Queensland}}|{{AUS}}
+|6°55′N|158°10′E|[[Palikir]]|{{n/a}}|{{FSM}}
+|53°01′N|158°39′E|[[Petropavlovsk-Kamchatsky]]|[[Kamchatka Krai]]|{{RUS}}
+|9°28′S|159°49′E|[[Honiara]]|{{n/a}}|{{SOL}} 
+|22°17′S|166°27′E|[[Nouméa]]|{{flag|New Caledonia}}|{{FRA}}
+|0°33′S|166°55′E|[[Yaren District]]|{{n/a}}|{{NRU}}
+|29°04′S|167°58′E|[[Kingston, Norfolk Island|Kingston]]|{{flag|Norfolk Island}}|{{AUS}}
+|17°45′S|168°18′E|[[Port Vila]]|{{n/a}}|{{VUT}}
+|46°25′S|168°21′E|[[Invercargill]]|{{n/a}}|{{NZL}}
+|45°52′S|170°30′E|[[Dunedin]]|{{n/a}}|{{NZL}}
+|7°04′N|171°16′E|[[Majuro]]|{{n/a}}|{{MHL}}
+|43°32′S|172°37′E|[[Christchurch]]|{{n/a}}|{{NZL}}
+|1°26′N|173°00′E|[[South Tarawa]]|{{n/a}}|{{KIR}}
+|41°16′S|173°17′E|[[Nelson, New Zealand|Nelson]]|{{n/a}}|{{NZL}}
+|36°50′S|174°44′E|[[Auckland]]|{{n/a}}|{{NZL}}
+|41°17′S|174°47′E|[[Wellington]]|{{n/a}}|{{NZL}}
+|37°47′S|175°17′E|[[Hamilton, New Zealand|Hamilton]]|{{n/a}}|{{NZL}}
+|39°39′S|176°50′E|[[Hastings, New Zealand|Hastings]]|{{n/a}}|{{NZL}}
+|64°44′N|177°31′E|[[Anadyr (town)|Anadyr]]|[[Chukotka Autonomous Okrug]]|{{RUS}}
+|18°08′S|178°27′E|[[Suva]]|{{n/a}}|{{FIJ}}
+|8°31′S|179°13′E|[[Funafuti]]|{{n/a}}|{{TUV}}
+|16°26′S|179°22′E|[[Labasa]]|{{n/a}}|{{FIJ}}
+|9°23′S|179°51′E|[[Nukulaelae]]|{{n/a}}|{{TUV}}
