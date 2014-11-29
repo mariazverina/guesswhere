@@ -11,7 +11,7 @@ handlers:
   static_dir: js
 
 - url: /.*
-  script: guestbook.application
+  script: guesswhere.application
 
 libraries:
 - name: webapp2

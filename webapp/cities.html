@@ -17,7 +17,7 @@
     <td>{{ city[1][3].decode('utf-8') }}</td>
     <td>{{ city[1][4].decode('utf-8') }}</td>
     <td><a href="http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&generator=geosearch&ggsprimary=all&ggsnamespace=6&ggsradius=10000&ggslimit=25&prop=imageinfo&iilimit=1&iiprop=url&iiurlwidth=200&iiurlheight=200&ggscoord={{city[1][0]}}|{{city[1][1]}}  ">Wiki Media</a></td>
-    <td><a href="photos?id={{city[0]}}">Photos</a></td> 
+    <td><a href="photos?id={{city[0]}}&lat={{city[1][0]}}&lon={{city[1][1]}}">Photos</a></td> 
 	</tr>
     {% endfor %}
     </table>

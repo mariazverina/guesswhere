@@ -9,42 +9,40 @@
   </head>
   <!-- [END head_html] -->
   <body>
-    <table>
-	<tr>
-    <td>{{ city[2].decode('utf-8') }}</td>
-    <td>{{ city[3].decode('utf-8') }}</td>
-    <td>{{ city[4].decode('utf-8') }}</td>
-    <td><a href="http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&list=geosearch&gsprimary=all&gsnamespace=6&gsradius=10000&gscoord={{coord}}  ">Wiki Media</a></td>
-    <td><a href="photos?id={{city[0]}}">Photos</a></td>
-    <td><div id="imageContainer"></div></td> 
-	</tr>
-    </table>
-
+    <font color="#ff0000" size="+10"><div class="result">{{result}}</div></font>
+    <form method="POST" action="guess">
+    <input type="hidden" name="answer" value="{{id}}">
+    <table width="80%"><tr>
+    {% for option in options %}
+    <td width="17%">
+        <input class="button medium-btn" name="guess" type="submit"  value="{{option [1].decode('utf-8')}}, {{ option [2].decode('utf-8') }}"/>
+    </td>
+    {% endfor %}
+    </tr></table>
+    </form>
+    <div id="imageContainer"></div>
 
   </body>
 <script type="text/javascript">
-
-/*
-http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&generator=geosearch&
-ggsprimary=all&ggsnamespace=6&ggsradius=10000&ggslimit=25&prop=imageinfo&iilimit=1&iiprop=url
-&iiurlwidth=200&iiurlheight=200&ggscoord=51.48|0.0
-*/
+    'use strict';
     var image_loader = function(e) {
         var container = document.getElementById("imageContainer");
         container.appendChild(e.target);
     }
-    var img = document.createElement("img");
-    img.onload = image_loader
-    img.setAttribute("src","https://www.google.com/images/srpr/logo11w.png");
-    img = document.createElement("img");
-    img.onload = image_loader
-    img.setAttribute("src","http://www.microsoft.com/about/corporatecitizenship/en-us/images/MSFT_logo_rgb_C-Gray_D102x23.png");
-
-var params = {action: 'query', prop: 'revisions', titles: 'Main Page'}
-var mwjs = new MediaWikiJS('https://en.wikipedia.org', params, function (data) {
-    'use strict';
+    var params = {action: 'query', generator: 'geosearch', ggsprimary: 'all', ggsnamespace: '6', ggsradius: '10000',
+    ggslimit: '6', prop: 'imageinfo', iilimit: '1', iiprop: 'url', iiurlwidth: '400', iiurlheight:300, ggscoord: '{{coord}}', rawcontinue:"1"}
+    var mwjs = new MediaWikiJS('https://commons.wikimedia.org', params, function (data) {
     var pages = data.query.pages;
-    alert('Main page of Wikipedia last edited by: ' + pages[Object.keys(pages)[0]].revisions[0].user);
+    
+    for (var key in pages) {
+        if (pages.hasOwnProperty(key)) {
+            var turl = pages[key]["imageinfo"][0]["thumburl"]
+            console.log("loading " + turl)
+            var img = document.createElement("img");
+            img.onload = image_loader;
+            img.setAttribute("src", turl);
+        }
+    }
 });
 </script>
 </html>
