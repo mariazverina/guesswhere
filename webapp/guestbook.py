@@ -83,15 +83,30 @@ class Browse(webapp2.RequestHandler):
     
     def get(self):
         template_values = {
-            'cities': CITY_DB,
+            'cities': enumerate(CITY_DB)
         }
 
         template = JINJA_ENVIRONMENT.get_template('cities.html')
         self.response.write(template.render(template_values))
+
+class Photos(webapp2.RequestHandler):
+    
+    def get(self):
         
+        city = CITY_DB[int(self.request.get("id"))]
+        template_values = {
+            'coord': "{0}|{1}".format(city[0], city[1]),
+            'city': city,
+        }
+
+        template = JINJA_ENVIRONMENT.get_template('photos.html')
+        self.response.write(template.render(template_values))
+        
+        pass
 
 application = webapp2.WSGIApplication([
     ('/', MainPage),
     ('/sign', Guestbook),
     ('/browse', Browse),
+    ('/photos', Photos),
 ], debug=True)

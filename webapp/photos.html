@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% autoescape true %}
+<html>
+  <!-- [START head_html] -->
+  <head>
+    <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+  </head>
+  <!-- [END head_html] -->
+  <body>
+    <table>
+	<tr>
+    <td>{{ city[2].decode('utf-8') }}</td>
+    <td>{{ city[3].decode('utf-8') }}</td>
+    <td>{{ city[4].decode('utf-8') }}</td>
+    <td><a href="http://commons.wikimedia.org/w/api.php?format=jsonfm&action=query&list=geosearch&gsprimary=all&gsnamespace=6&gsradius=500&gscoord={{coord}}  ">Wiki Media</a></td>
+    <td><a href="photos?id={{city[0]}}">Photos</a></td>
+    <td><div id="imageContainer"></div></td> 
+	</tr>
+    </table>
+
+
+  </body>
+<script>
+    var img = document.createElement("img");
+    img.onload = function(e) {
+        var container = document.getElementById("imageContainer");
+        container.appendChild(e.target);
+    }
+    img.setAttribute("src","https://www.google.com/images/srpr/logo11w.png");
+    var img = document.createElement("img");
+    img.onload = function(e) {
+        var container = document.getElementById("imageContainer");
+        container.appendChild(e.target);
+    }
+    img.setAttribute("src","http://www.microsoft.com/about/corporatecitizenship/en-us/images/MSFT_logo_rgb_C-Gray_D102x23.png");
+</script>
+</html>
+{% endautoescape %}
