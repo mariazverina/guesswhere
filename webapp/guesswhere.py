@@ -62,7 +62,7 @@ class Guess(webapp2.RequestHandler):
         # should be limited to ~1/second.
         guess = self.request.get('guess')
         answer = int(self.request.get('answer'))
-        result = "Correct!!" if CITY_DB[answer][2] == guess.split(",")[0] else "Incorrect - that was " + CITY_DB[answer][2]
+        result = "Correct!!" if CITY_DB[answer][2].decode('utf-8') == guess.split(",")[0] else "Incorrect - that was " + CITY_DB[answer][2]
         query_params = {"result": result, "id": random.randrange(len(CITY_DB))}
         self.redirect('/photos?' + urllib.urlencode(query_params))
 
@@ -90,7 +90,8 @@ class Photos(webapp2.RequestHandler):
         return [(city_id, CITY_DB[city_id][2], CITY_DB[city_id][4]) for city_id in uniq]            
 
     def get(self):
-        city_id = int(self.request.get("id"))
+        city_id = int(self.request.get("id", random.randrange(len(CITY_DB))))
+
         city = CITY_DB[city_id]
         lat = self.request.get("lat")
         lon = self.request.get("lon")
@@ -113,7 +114,7 @@ class Photos(webapp2.RequestHandler):
         self.response.write(template.render(template_values))
 
 application = webapp2.WSGIApplication([
-    ('/', Browse),
+    ('/', Photos),
     ('/sign', Guestbook),
     ('/browse', Browse),
     ('/photos', Photos),
